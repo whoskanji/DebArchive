@@ -1,32 +1,16 @@
-Package: com.kanji.cl1m4x
-Version: 1.3
+Package: com.kanji.animplus
+Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: Kanji <tyler.clinton@icloud.com>
 Depends: firmware (>= 12.0)
-Filename: ./debs/com.kanji.cl1m4x_1.3_iphoneos-arm.deb
-Size: 17227872
-MD5sum: cd496b443666316e26d5beadc2076a56
-SHA1: 1c76306dfce5a0f016f894d047ab3c9d15e5460f
-SHA256: 44c693d22a40262fc54e61eba9383635c1a2efdd9b02b5dcb9a4e0bd55ee133b
-Section: Apps
-Priority: optional
-Description: Adult App just because.
-Author: Kanji <tyler.clinton@icloud.com>
-Depiction: https://whoskanji.com/depictions/com.kanji.climax/
-Dev: Kanji
-Name: Climax
-
-Package: com.wyattgahm.snapshot
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Wyatt
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wyattgahm.snapshot_0.0.1+debug_iphoneos-arm.deb
-Size: 4958
-MD5sum: 0e0aaed4bbbdd85e2171d322ed7ee179
-SHA1: e0435c734d5485426aa5f88119fee471ebd14965
-SHA256: 3eeb04a30f349818d4d9fd81f65f8407b5d1bad1370f3d4c155d7ec196f984aa
+Filename: ./debs/com.adamseiter.animplus_2.5_iphoneos-arm.deb
+Size: 78508
+MD5sum: 314ad970efb02e60a945fd2c72fbe080
+SHA1: 2ff1655905d2a5e87ab2ac6340fcc96d11668a70
+SHA256: 425e5b38badaed576ed474ce42774c1a7ee6c70dfb9e3ed7c2607a45529b07f2
 Section: Tweaks
-Description: Disabled screenshot notification on Snapchat. Works most recent version. Use at your own risk.
-Author: Wyatt
-Name: SnapShot
+Priority: optional
+Description: Fast animations
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: AnimPlus
