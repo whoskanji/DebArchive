@@ -2,7 +2,7 @@ Package: com.kanji.animplus
 Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: Kanji <tyler.clinton@icloud.com>
-Depends: firmware (>= 12.0)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, firmware (<=15)
 Filename: ./deb/com.adamseiter.animplus_2.5_iphoneos-arm.deb
 Size: 78508
 MD5sum: 314ad970efb02e60a945fd2c72fbe080
