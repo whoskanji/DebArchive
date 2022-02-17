@@ -184,3 +184,121 @@ Description: Quart
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Quart
+
+Package: com.kanji.aesirpro
+Version: 1.3-5
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.macs.aesirpro_1.3-5_iphoneos-arm.deb
+Size: 3081156
+MD5sum: 9f98785a861add6762140c512cd2a6a7
+SHA1: 648012c89b1382aa4d67ed4a9c2df97bd8778c39
+SHA256: 779a97b3f9cf0c23aabb970b8f2e27808a7108c6e46c0f2af21bb01151b26335
+Section: Themes
+Priority: optional
+Description: Aesir Pro
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Aesir Pro
+
+Package: com.kanji.minotaur
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./deb/com.muirey03.minotaur_1.2.1_iphoneos-arm.deb
+Size: 174286
+MD5sum: d4daafeb31d976085cc83b074ce76a3e
+SHA1: 05017cbfa7833be1215f93b9e1c79bbdb3bedd7a
+SHA256: 40add2cd0d5712c3a83b952f7ab44c1249cb6a5368a64498c3370a4f26dd07e3
+Section: Tweaks
+Priority: optional
+Description: Minotaur
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Minotaur
+
+Package: com.kanji.st5
+Version: 5.2.6
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./deb/com.springtomize.st5_5.2.6_iphoneos-arm.deb
+Size: 461608
+MD5sum: c1b4dc05db7a12667bd90bb6064fcda1
+SHA1: e1616ba4df778008baad2523a56b143bd1cfa0f5
+SHA256: 0d0680d84b315892bb601fee3b1adbe8cb76716a04f4b839554d6e7a774e0843
+Section: Tweaks
+Priority: optional
+Description: Springtomize 5
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Springtomize 5
+
+Package: com.kanji.sonus
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./deb/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm.deb
+Size: 118404
+MD5sum: 751e65ab695e63d2331e5769ce848569
+SHA1: f91986786cc4d98073b6b4ffbebf3c85f387569d
+SHA256: c67fe3342baca69b9d911c427eb38caf6c5cc877245b598f38cbf3e81c5ef034
+Section: Tweaks
+Priority: optional
+Description: Sonus13
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Sonus13
+
+Package: com.kanji.revaui
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Filename: ./deb/io.alo.revaui_3.0_iphoneos-arm.deb
+Size: 7031422
+MD5sum: 7e91da6d850a4f1ce3f300a0f5aa5b2e
+SHA1: f6f7443fed3b80f60d97320325fcdf4ae5baab5c
+SHA256: a30c61b582bc8e53420a0e9eda96bf66f55819c737e3af63182659f485e19812
+Section: Themes
+Priority: optional
+Description: Reva UI
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Reva UI
+
+Package: com.kanji.ventana
+Version: 1.7.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, org.coolstar.ldid, gzip
+Filename: ./deb/org.coolstar.ventana-modern_1.7.0_iphoneos-arm.deb
+Size: 275118
+MD5sum: cb5604e5352323a09da680105893155a
+SHA1: c26b2ffc82c3d168bdc6620b1c801f76f9944a14
+SHA256: a90c2e3791e73743ad92dbf8007edf8f0e5eddacff871db529f8beb61c320e07
+Section: Tweaks
+Priority: optional
+Description: Ventana
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Ventana
+
+Package: com.kanji.realkeys
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 11.0)
+Filename: ./deb/xyz.royalapps.realkeys_1.0.3_iphoneos-arm.deb
+Size: 133544
+MD5sum: a118c9eec26a3c1d3e4c9e7673cd0a42
+SHA1: 687534ccf679ef1d208b4b86209909c5da9aa669
+SHA256: f70ab8bf6dfc928b1daee9a3e78406585a1826490c37d5f8723fd8c311b48cc6
+Section: Tweaks
+Priority: optional
+Description: RealKeys
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: RealKeys
