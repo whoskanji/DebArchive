@@ -1,0 +1,16 @@
+Package: com.kanji.animplus
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, firmware (<=15)
+Filename: ./deb/com.adamseiter.animplus_2.5_iphoneos-arm.deb
+Size: 78508
+MD5sum: 314ad970efb02e60a945fd2c72fbe080
+SHA1: 2ff1655905d2a5e87ab2ac6340fcc96d11668a70
+SHA256: 425e5b38badaed576ed474ce42774c1a7ee6c70dfb9e3ed7c2607a45529b07f2
+Section: Tweaks
+Priority: optional
+Description: Fast animations
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: AnimPlus
