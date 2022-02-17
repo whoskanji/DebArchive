@@ -99,3 +99,37 @@ Description: Zenith
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Zenith
+
+Package: com.kanji.icontweak
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader
+Filename: ./deb/com.ichitaso.icontweak_1.0.9_iphoneos-arm.deb
+Size: 105964
+MD5sum: 1a0efa008cddf890cfe24a87833d7c7e
+SHA1: 350d0d9f393be966685cdaa29e0ba8476a7f2e0f
+SHA256: c473c04d477cb84555ff6e0ce6520c03b59f13adc9befe7c7d28c5390f219076
+Section: Tweaks
+Priority: optional
+Description: IconTweak
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: IconTweak
+
+Package: com.kanji.boxy4
+Version: 4.4.2
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader,
+Filename: ./deb/com.irepo.boxy4_4.4.2_iphoneos-arm.deb
+Size: 2768294
+MD5sum: 8813d6160bb4c3c284767343cdf49767
+SHA1: 7534c9b5152c87cfc53be7e225a49e1a93b89f82
+SHA256: ff0e2dc7be117f6a9ccd51cf4bd532ebf25b03b67431c29a5efd2fdc7055b220
+Section: Tweaks
+Priority: optional
+Description: Boxy 4
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Boxy 4
