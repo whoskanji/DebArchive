@@ -3,7 +3,7 @@ Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: Kanji <tyler.clinton@icloud.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, firmware (<=15)
-Filename: ./deb/com.adamseiter.animplus_2.5_iphoneos-arm.deb
+Filename: ./deb/com.kanji.animplus_2.5_iphoneos-arm.deb
 Size: 78508
 MD5sum: 314ad970efb02e60a945fd2c72fbe080
 SHA1: 2ff1655905d2a5e87ab2ac6340fcc96d11668a70
@@ -20,7 +20,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Kanji <tyler.clinton@icloud.com>
 Depends: mobilesubstrate
-Filename: ./deb/com.bousrih.violaglyphs_1.4_iphoneos-arm.deb
+Filename: ./deb/com.kanji.violaglyphs_1.4_iphoneos-arm.deb
 Size: 24486820
 MD5sum: d0320d163a9897e4c4b8ca51989b1ab9
 SHA1: 8332bd076c16c5b68e88cabadd16e88e1687ae48
