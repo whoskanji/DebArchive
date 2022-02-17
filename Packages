@@ -48,3 +48,54 @@ Description: PhotoManager
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: PhotoManager (iOS 12 - 14)
+
+Package: com.kanji.colorbadges
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./deb/com.golddavid.colorbadges-new_1.5.0_iphoneos-arm.deb
+Size: 59594
+MD5sum: 935415997e5780b7bd38feb06b722d23
+SHA1: 5134ac807e6968b3be1ebe853be146c930ef39ab
+SHA256: d658a49acf9556e610a12115067c1c38e26d1bdf053df70d6f2d81069f4e0fa6
+Section: Tweaks
+Priority: optional
+Description: ColorBadges
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: ColorBadges
+
+Package: com.kanji.zenith14fix
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, com.kanji.zenith
+Filename: ./deb/com.henrikssonbrothers.zenith14fix_0.0.4-2_iphoneos-arm.deb
+Size: 4056
+MD5sum: 1628202618a6e47eea662a603e566805
+SHA1: 0f75c48deb15e8070f2c05ddf265e880b222c481
+SHA256: 35124f7b67e12cbfda8e861a58a73c641f14fbd57561f452381ddeb75f5c2ec2
+Section: Tweaks
+Priority: optional
+Description: Zenith iOS 14 Fix
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Zenith iOS 14 Fix
+
+Package: com.kanji.zenith
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./deb/com.muirey03.zenith_1.2.6_iphoneos-arm.deb
+Size: 225182
+MD5sum: 63a9c4e004d85909a16e881b966ebb94
+SHA1: 32a0acbef23b6aecaf07b186fd13809a90b273a3
+SHA256: efbd8028b67d2451c00ed52bba738e73f67360177ca1955965fb8c72b41bd322
+Section: Tweaks
+Priority: optional
+Description: Zenith
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Zenith
