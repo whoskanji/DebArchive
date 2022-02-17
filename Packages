@@ -14,3 +14,20 @@ Description: Fast animations
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: AnimPlus
+
+Package: com.kanji.violaglyphs
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.bousrih.violaglyphs_1.4_iphoneos-arm.deb
+Size: 24486820
+MD5sum: d0320d163a9897e4c4b8ca51989b1ab9
+SHA1: 8332bd076c16c5b68e88cabadd16e88e1687ae48
+SHA256: 9e945c6f998b4d82aec1f24cdaf0928312dae8a89ef93c1f869a78d16e2176bf
+Section: Themes
+Priority: optional
+Description: Viola Glyphs Theme
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Viola Glyphs
