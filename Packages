@@ -42,7 +42,7 @@ Size: 233000
 MD5sum: b00ad320d398622e69acf6805c0e33e6
 SHA1: 239c833c6497c364332f3cf5d3e2605a14b53cb2
 SHA256: 8fc06749310557584794816175f2fb1ca3d854b3ba15dbe538e6516089d3282d
-Section: Tweakls
+Section: Tweaks
 Priority: optional
 Description: PhotoManager
 Author: Kanji <tyler.clinton@icloud.com>
