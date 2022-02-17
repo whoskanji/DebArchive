@@ -133,3 +133,54 @@ Description: Boxy 4
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Boxy 4
+
+Package: com.kanji.ccmodulespro
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, firmware (>=11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1)
+Filename: ./deb/com.jailbreak365.ccmodulespro_1.1.4_iphoneos-arm.deb
+Size: 161628
+MD5sum: 82b9911c3fb8528536e9ed577cbbabad
+SHA1: b2aa9772acf7e96b0fbebb155ad4b1bea0728009
+SHA256: 8a0ec956f1421ad2bfce181590decfd7429df4a70434880a1b8f57fa2672e33a
+Section: Tweaks
+Priority: optional
+Description: CCModules Pro
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: CCModules Pro
+
+Package: com.kanji.prysm
+Version: 1.9.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./deb/com.laughingquoll.prysm_1.9.1_iphoneos-arm.deb
+Size: 827372
+MD5sum: da2281e4727afd67c60a5b19f7821c83
+SHA1: 381e6a4e19417b9fe158ab7a24b172f94817252c
+SHA256: 188cd8e316ef3df44ea0ec7c3e8815c214f053b47e5c3a0628a190ebcf631523
+Section: Tweaks
+Priority: optional
+Description: Prysm
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Prysm
+
+Package: com.kanji.quart
+Version: 1.4.6.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./deb/com.laughingquoll.quart_1.4.6.1_iphoneos-arm.deb
+Size: 1079000
+MD5sum: 55f25ee358e67270ba22720d74377c44
+SHA1: ba057574cb467f8960334c8d405b7ce8b70b0ffc
+SHA256: e2745fa97fc81cecd11238008648bbb703194b128f3ba49f1ff9ca961c29624e
+Section: Tweaks
+Priority: optional
+Description: Quart
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Quart
