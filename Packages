@@ -699,3 +699,19 @@ Description: Ultimate iDevice Customization for iOS 14+
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Lynx 2
+
+Package: com.kanji.cozybadges
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
+Filename: ./deb/com.noisyflake.cozybadges_1.2.3_iphoneos-arm.deb
+Size: 47984
+MD5sum: 1743b5b163e0d8c159c2d011411eebb1
+SHA1: 26f4b1667000556400102937087112f88c7a3a68
+SHA256: 1b6668f6ee5713303c3b1cebecf086ce6c5925e236f0711bf154f56012fe6d38
+Section: Tweaks
+Description: A cozy place for your badges.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: CozyBadges
