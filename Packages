@@ -556,3 +556,20 @@ Description: TouchBar
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: TouchBar
+
+Package: com.kanji.shortlook
+Version: 1.0.23
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
+Filename: ./deb/co.dynastic.ios.tweak.shortlook_1.0.23_iphoneos-arm.deb
+Size: 1294668
+MD5sum: e0385d50470f0aabb6198e16da2f8b4b
+SHA1: 576514c2bc46176e61f80e7e9d054b584da6b2a6
+SHA256: a8ff2a582ebe1d6e2f5f3b89e101abad938769da32aeceb973fd5ef11e6441ff
+Section: Tweaks
+Priority: optional
+Description: ShortLook
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: ShortLook
