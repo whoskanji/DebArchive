@@ -352,3 +352,20 @@ Description: Groups
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Groups
+
+Package: com.kanji.atlas
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.15.1)
+Filename: ./deb/com.chr1s.atlas_1.0.1_iphoneos-arm.deb
+Size: 96386
+MD5sum: c33eeaaa4b1f06f3e28a401ea1c268b4
+SHA1: 8d7a21657b9e4141403abc0f733a221bacf4a716
+SHA256: d2c25872e6c3181e476f468b34270399f1a3cb63385d8aa2cc15abef2c7c3a52
+Section: Tweaks
+Priority: optional
+Description: Atlas
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Atlas
