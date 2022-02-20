@@ -692,20 +692,3 @@ Description: A tactile RGB keyboard for your iPhone.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: ProKeys
-
-Package: com.kanji.relocateme
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
-Depends: firmware (>= 14.0)
-Filename: ./deb/me.midnightchips.relocateme_1.0-2_iphoneos-arm.deb
-Size: 279990
-MD5sum: 185b7e31740cae347e2a9550d9589413
-SHA1: b92de035614daceff46c280d7f8a0f010707adb1
-SHA256: e957e3e139aaa8294625c2843d5bee7a49832e431fc8716c3c8d0909ac497541
-Section: Tweaks
-Priority: optional
-Description: Emulate iOS GPS Locations
-Author: Kanji <tyler.clinton@icloud.com>
-Dev: Kanji
-Name: RelocateMe
