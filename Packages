@@ -692,3 +692,20 @@ Description: A tactile RGB keyboard for your iPhone.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: ProKeys
+
+Package: com.kanji.docksearch
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./deb/com.ginsu.docksearch_1.0.7_iphoneos-arm.deb
+Size: 158956
+MD5sum: dcef67988cbd5bf929864f8aa4b2425e
+SHA1: 8c2ee2b40461438e3c81b03897c74db4b9aad7df
+SHA256: ec4a207e0892406a2319540542ad2f38b0615e3f2d450145b1c7dfbda6f2d8ac
+Section: Tweaks
+Priority: optional
+Description: Search the web from your Home Screen
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: DockSearch
