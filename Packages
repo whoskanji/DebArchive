@@ -9,7 +9,6 @@ MD5sum: 314ad970efb02e60a945fd2c72fbe080
 SHA1: 2ff1655905d2a5e87ab2ac6340fcc96d11668a70
 SHA256: 425e5b38badaed576ed474ce42774c1a7ee6c70dfb9e3ed7c2607a45529b07f2
 Section: Tweaks
-Priority: optional
 Description: Speed up animations with AnimPlus
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -26,7 +25,6 @@ MD5sum: d0320d163a9897e4c4b8ca51989b1ab9
 SHA1: 8332bd076c16c5b68e88cabadd16e88e1687ae48
 SHA256: 9e945c6f998b4d82aec1f24cdaf0928312dae8a89ef93c1f869a78d16e2176bf
 Section: Themes
-Priority: optional
 Description: The glyph version of Viola
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -43,7 +41,6 @@ MD5sum: b00ad320d398622e69acf6805c0e33e6
 SHA1: 239c833c6497c364332f3cf5d3e2605a14b53cb2
 SHA256: 8fc06749310557584794816175f2fb1ca3d854b3ba15dbe538e6516089d3282d
 Section: Tweaks
-Priority: optional
 Description: Add many features to the Photos app.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -60,7 +57,6 @@ MD5sum: 935415997e5780b7bd38feb06b722d23
 SHA1: 5134ac807e6968b3be1ebe853be146c930ef39ab
 SHA256: d658a49acf9556e610a12115067c1c38e26d1bdf053df70d6f2d81069f4e0fa6
 Section: Tweaks
-Priority: optional
 Description: Colorize your badges.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -77,7 +73,6 @@ MD5sum: 1628202618a6e47eea662a603e566805
 SHA1: 0f75c48deb15e8070f2c05ddf265e880b222c481
 SHA256: 35124f7b67e12cbfda8e861a58a73c641f14fbd57561f452381ddeb75f5c2ec2
 Section: Tweaks
-Priority: optional
 Description: Make Zenith work on iOS 14
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -94,7 +89,6 @@ MD5sum: 63a9c4e004d85909a16e881b966ebb94
 SHA1: 32a0acbef23b6aecaf07b186fd13809a90b273a3
 SHA256: efbd8028b67d2451c00ed52bba738e73f67360177ca1955965fb8c72b41bd322
 Section: Tweaks
-Priority: optional
 Description: Organization done right.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -111,7 +105,6 @@ MD5sum: 1a0efa008cddf890cfe24a87833d7c7e
 SHA1: 350d0d9f393be966685cdaa29e0ba8476a7f2e0f
 SHA256: c473c04d477cb84555ff6e0ce6520c03b59f13adc9befe7c7d28c5390f219076
 Section: Tweaks
-Priority: optional
 Description: Swipe icons to show control menu and more!
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -128,7 +121,6 @@ MD5sum: 8813d6160bb4c3c284767343cdf49767
 SHA1: 7534c9b5152c87cfc53be7e225a49e1a93b89f82
 SHA256: ff0e2dc7be117f6a9ccd51cf4bd532ebf25b03b67431c29a5efd2fdc7055b220
 Section: Tweaks
-Priority: optional
 Description: Fully customize your icon layout!
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -145,7 +137,6 @@ MD5sum: 82b9911c3fb8528536e9ed577cbbabad
 SHA1: b2aa9772acf7e96b0fbebb155ad4b1bea0728009
 SHA256: 8a0ec956f1421ad2bfce181590decfd7429df4a70434880a1b8f57fa2672e33a
 Section: Tweaks
-Priority: optional
 Description: Increase the usability of your control center.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -162,7 +153,6 @@ MD5sum: da2281e4727afd67c60a5b19f7821c83
 SHA1: 381e6a4e19417b9fe158ab7a24b172f94817252c
 SHA256: 188cd8e316ef3df44ea0ec7c3e8815c214f053b47e5c3a0628a190ebcf631523
 Section: Tweaks
-Priority: optional
 Description: You control center, reimagined.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -179,7 +169,6 @@ MD5sum: 55f25ee358e67270ba22720d74377c44
 SHA1: ba057574cb467f8960334c8d405b7ce8b70b0ffc
 SHA256: e2745fa97fc81cecd11238008648bbb703194b128f3ba49f1ff9ca961c29624e
 Section: Tweaks
-Priority: optional
 Description: Notifications, redefined.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -196,7 +185,6 @@ MD5sum: 9f98785a861add6762140c512cd2a6a7
 SHA1: 648012c89b1382aa4d67ed4a9c2df97bd8778c39
 SHA256: 779a97b3f9cf0c23aabb970b8f2e27808a7108c6e46c0f2af21bb01151b26335
 Section: Themes
-Priority: optional
 Description: A beautiful mix of color and sleekness to enhance your iOS 11 experience.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -213,7 +201,6 @@ MD5sum: d4daafeb31d976085cc83b074ce76a3e
 SHA1: 05017cbfa7833be1215f93b9e1c79bbdb3bedd7a
 SHA256: 40add2cd0d5712c3a83b952f7ab44c1249cb6a5368a64498c3370a4f26dd07e3
 Section: Tweaks
-Priority: optional
 Description: Notifications in your Status Bar.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -230,7 +217,6 @@ MD5sum: c1b4dc05db7a12667bd90bb6064fcda1
 SHA1: e1616ba4df778008baad2523a56b143bd1cfa0f5
 SHA256: 0d0680d84b315892bb601fee3b1adbe8cb76716a04f4b839554d6e7a774e0843
 Section: Tweaks
-Priority: optional
 Description: Customize your device like never before.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -247,7 +233,6 @@ MD5sum: 751e65ab695e63d2331e5769ce848569
 SHA1: f91986786cc4d98073b6b4ffbebf3c85f387569d
 SHA256: c67fe3342baca69b9d911c427eb38caf6c5cc877245b598f38cbf3e81c5ef034
 Section: Tweaks
-Priority: optional
 Description: A beautiful volume HUD replacement.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -263,7 +248,6 @@ MD5sum: 7e91da6d850a4f1ce3f300a0f5aa5b2e
 SHA1: f6f7443fed3b80f60d97320325fcdf4ae5baab5c
 SHA256: a30c61b582bc8e53420a0e9eda96bf66f55819c737e3af63182659f485e19812
 Section: Themes
-Priority: optional
 Description: A fresh new look for your iPhone!
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -280,7 +264,6 @@ MD5sum: cb5604e5352323a09da680105893155a
 SHA1: c26b2ffc82c3d168bdc6620b1c801f76f9944a14
 SHA256: a90c2e3791e73743ad92dbf8007edf8f0e5eddacff871db529f8beb61c320e07
 Section: Tweaks
-Priority: optional
 Description: Modern lock screen inspired by Windows 10.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -297,7 +280,6 @@ MD5sum: a118c9eec26a3c1d3e4c9e7673cd0a42
 SHA1: 687534ccf679ef1d208b4b86209909c5da9aa669
 SHA256: f70ab8bf6dfc928b1daee9a3e78406585a1826490c37d5f8723fd8c311b48cc6
 Section: Tweaks
-Priority: optional
 Description: RealKeys
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -313,7 +295,6 @@ MD5sum: a4b7af21db2223343689e7c9fa97c6a1
 SHA1: e9ed47f874f41bf91f15d0e13a385c2cea6622b8
 SHA256: f4eec4e295c200d53a3b2a8614bddc857225f248a4bfc14e0250bbe14849f0ed
 Section: Themes
-Priority: optional
 Description: Distant echoes.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -330,7 +311,6 @@ MD5sum: aa24fe2d4d3e53ca25132491503f0472
 SHA1: 9cddf4bdd88de1c8d77123825a04be61bf7d52be
 SHA256: e05e8d577150ae4bfd1bcc8704132a40aa3c70aa066e12984744649eff637f33
 Section: Tweaks
-Priority: optional
 Description: Represent battery around the notch.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -347,7 +327,6 @@ MD5sum: 350ef361ca24c677899cc42584caff9e
 SHA1: f4dd6fe8a3be425491addff2befafc391e610c15
 SHA256: 458bd9bd05fc655c5d64db698efd9ff57b849cb32dd8d42841e3ed587f3c45b5
 Section: Tweaks
-Priority: optional
 Description: A new way to experience Messages.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -364,7 +343,6 @@ MD5sum: c33eeaaa4b1f06f3e28a401ea1c268b4
 SHA1: 8d7a21657b9e4141403abc0f733a221bacf4a716
 SHA256: d2c25872e6c3181e476f468b34270399f1a3cb63385d8aa2cc15abef2c7c3a52
 Section: Tweaks
-Priority: optional
 Description: Minimalistic video player replacement.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -381,7 +359,6 @@ MD5sum: 5d2a6229d5205975707ead84129cac20
 SHA1: 53fec2d2da1d8dce45eb9e74b57e2c8fa02d1e1b
 SHA256: 41f39a5c76b5a887bdaafe2744e16b71fabd318fb25a1b3a7bdb864b0331727c
 Section: Tweaks
-Priority: optional
 Description: Minimal design without compromise.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -398,7 +375,6 @@ MD5sum: a7c93661ef63d7df8c2ce931aee86b9e
 SHA1: 4cc3b59d213a9b33b926a9a013ecc25c4334aae6
 SHA256: 1940bf9fcaa9a09066b277ea0f99aaf68c8ddee6b21e13a634dea85c3519a054
 Section: Tweaks
-Priority: optional
 Description: Replace the stock ugly Badges with a BadgeBar.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -415,7 +391,6 @@ MD5sum: b5d2bae7c748299707d287167a874115
 SHA1: 0da546e0000a740ee1da3dea072d64bdca851bf7
 SHA256: 4f9d43e1a2985fc7a3aa91b987d4b52085897511a32140984ba77a003a825aeb
 Section: Tweaks
-Priority: optional
 Description: New notification concept.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -432,7 +407,6 @@ MD5sum: 41900468078d0ac5811efeb2ec040447
 SHA1: 5fcbc295a3d5333cb686a2d61481d0e6df515dec
 SHA256: 700012ee99632947dfa51a05ecf8be53cb2e0cf41f372489e5a967975f3e0458
 Section: Tweaks
-Priority: optional
 Description: Natural, Simple, Beautiful - Redesign your Lock Screen.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -449,7 +423,6 @@ MD5sum: e03d09b08eddfb99aee97eaeb8417af0
 SHA1: ba04dce33a2618c37ae12bd89d1795a9d983e59d
 SHA256: 743a6b9b35631301d8ae5d11cc7522e978454769ccc3a340fc2510700ac890c4
 Section: Tweaks
-Priority: optional
 Description: Colorful notification banner animations.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -466,7 +439,6 @@ MD5sum: 44e69e637d99e697d32f74e6b8c40c52
 SHA1: 6c2c63983142e56e195070260e69c2d77706e64c
 SHA256: ff5edb2c1bba73afa64fa50cbd2a783d4db7c1a385cef503f67fc7e31e4f46b0
 Section: Tweaks
-Priority: optional
 Description: The perfect Lock Screen tweak.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -483,7 +455,6 @@ MD5sum: 63f8d180d2d5262cdc0726920761050f
 SHA1: df65cfdea0c7d42dfbf7596bd54ef2983dacfbb7
 SHA256: 3babe55e9102bc7cb0523116d413c56ff6a3073870bb26786b30a284dce30fdc
 Section: Tweaks
-Priority: optional
 Description: Replace the Lock Screen media player with the Google one.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -500,7 +471,6 @@ MD5sum: 92aebd5f390b5683e0d4d4d601226a95
 SHA1: b4e9e722e289036e3044d8e7e2366e1c676cb125
 SHA256: 04a749d420907ad33a36adc868afb3a12884465d7f056806df5bccdd34c84787
 Section: Tweaks
-Priority: optional
 Description: Notification banners in the notch!
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -517,7 +487,6 @@ MD5sum: 883d839e1b3da378440b7d85ae1d4f70
 SHA1: 8e2b5f1b6243d4885f19fc88c5976665479836cc
 SHA256: 04cbf39e2a3d2867efab60e3ccc00033617a427991eea7c2299b87d84cb84b58
 Section: Tweaks
-Priority: optional
 Description: Make your Messages app dope!
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -534,7 +503,6 @@ MD5sum: 28f274fe9e0b36abeabc1ce2bd95bf5f
 SHA1: 2f6c392ab15aeff0b222190c44de8eddfa6ef836
 SHA256: e6cc49db98cf749b75cf2f8a759bfb80a7601dd62351d993ce8a4e8bbd5cc807
 Section: Tweaks
-Priority: optional
 Description: Pin screenshots on the screen.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -551,7 +519,6 @@ MD5sum: 1149298dcc2bbe0e5da1477c16c77fee
 SHA1: 3e5e9df0d366e40a9b41ce7f01b2273f528e18e7
 SHA256: 4d2cdba04eb609ef876aa7cbf84259ca22ab51fabc719351534b787da2bcf8c6
 Section: Tweaks
-Priority: optional
 Description: MacOS TouchBar on iOS!
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -568,7 +535,6 @@ MD5sum: e0385d50470f0aabb6198e16da2f8b4b
 SHA1: 576514c2bc46176e61f80e7e9d054b584da6b2a6
 SHA256: a8ff2a582ebe1d6e2f5f3b89e101abad938769da32aeceb973fd5ef11e6441ff
 Section: Tweaks
-Priority: optional
 Description: Your notifications. At a glance.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -585,7 +551,6 @@ MD5sum: bd39fa21616866cff9db68d82b232adf
 SHA1: 2c98a7ebfd944a4af4ffd8490b812b03060f69f5
 SHA256: 7ee8be4a7445df783f4fb292af831091ada2c761497714ca16720a8758af0a9c
 Section: Tweaks
-Priority: optional
 Description: Night mode camera
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -602,7 +567,6 @@ MD5sum: 17fa003a986b439fd06629e275d99b0f
 SHA1: 4e406c61dd369c9ad78dc808708c4fa3a517165c
 SHA256: 449d0e08dac0ebcca5847b895a8c6f49af417f42d7fce1eada4b0637ee131bb3
 Section: Tweaks
-Priority: optional
 Description: Monitor your network traffic.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -619,7 +583,6 @@ MD5sum: ca26648483a711e5f44b114c3c12ed16
 SHA1: 4767d250241f96be33ee027a460247894a88889f
 SHA256: 6fd72dd9595e7492773da6c65b109f37c3dd56c7271fa54bcdf2f3b2130b4401
 Section: Tweaks
-Priority: optional
 Description: Single camera portrait mode.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -636,7 +599,6 @@ MD5sum: ff7627c2c6b4de0336fbfe3cb1372d13
 SHA1: a3a4f7890d70a7ddc4398d2e5670fc6857bffda8
 SHA256: 194077a010ce49701023059fb6499201d00735a9378c74d8d37bcdffdf8dfa71
 Section: Tweaks
-Priority: optional
 Description: System-wide weather.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -653,7 +615,6 @@ MD5sum: 171569dd08ce61498672428a822aa517
 SHA1: a39d6341d453b0b439ba24cb16e8b17f11981ce6
 SHA256: 052c51e9b1ceed00ce5134878015ba0cbd51352ac5ef6d8a5cc41069c438d46f
 Section: Tweaks
-Priority: optional
 Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -670,7 +631,6 @@ MD5sum: 05173b1a88951cb7ec2a571fece7040f
 SHA1: 4694f848afb01f76b6ff56eb1a0a91dae58a35d9
 SHA256: 9afb4579722f98f09493ab52cf7f4f4e445c843414d6ffb5310d2259a67f439c
 Section: Tweaks
-Priority: optional
 Description: Control from your status bar.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -687,7 +647,6 @@ MD5sum: ab852491532e3ffcfd3e44d8dfc964d1
 SHA1: 228cd7d5316b121eff6a18ba9fe3c8172c38df36
 SHA256: 60110d3360a332e69fcbf81f011772c9139adbf72ffac7454b4f1c387e9adf5b
 Section: Tweaks
-Priority: optional
 Description: A tactile RGB keyboard for your iPhone.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
@@ -704,7 +663,6 @@ MD5sum: dcef67988cbd5bf929864f8aa4b2425e
 SHA1: 8c2ee2b40461438e3c81b03897c74db4b9aad7df
 SHA256: ec4a207e0892406a2319540542ad2f38b0615e3f2d450145b1c7dfbda6f2d8ac
 Section: Tweaks
-Priority: optional
 Description: Search the web from your Home Screen
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
