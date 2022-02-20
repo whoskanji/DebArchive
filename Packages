@@ -624,3 +624,20 @@ Description: Single camera portrait mode.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: PortraitXI
+
+Package: com.kanji.asteroid14
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0.0), ws.hbang.common (>= 1.17), com.opa334.altlist
+Filename: ./deb/me.midnightchips.asteroid14_1.0.1_iphoneos-arm.deb
+Size: 339406
+MD5sum: ff7627c2c6b4de0336fbfe3cb1372d13
+SHA1: a3a4f7890d70a7ddc4398d2e5670fc6857bffda8
+SHA256: 194077a010ce49701023059fb6499201d00735a9378c74d8d37bcdffdf8dfa71
+Section: Tweaks
+Priority: optional
+Description: System-wide weather.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Asteroid
