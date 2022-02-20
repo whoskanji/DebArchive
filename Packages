@@ -667,3 +667,19 @@ Description: Search the web from your Home Screen
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: DockSearch
+
+Package: com.kanji.gesto13
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./deb/com.blackhole.gesto13_1.2.1_iphoneos-arm.deb
+Size: 915452
+MD5sum: 6e7d747c794124475e2375f9ef03937c
+SHA1: ae4accfee88b34c35ac60058c9a0b827188c52c2
+SHA256: 293a69cee6a624d81193ca5e2beccb372f7ed909c80f4a75b2ae694ea9055137
+Section: Tweaks
+Description: Gesto enhances iOS's multitasking view, making it powerful yet familiar, with a native-looking design and gorgeous animations.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Gesto for iOS 13/14
