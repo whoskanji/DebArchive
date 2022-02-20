@@ -369,3 +369,71 @@ Description: Atlas
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Atlas
+
+Package: com.kanji.akara
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>= 14.0)
+Filename: ./deb/com.tr1fecta.akara_1.1.0_iphoneos-arm.deb
+Size: 1033414
+MD5sum: 5d2a6229d5205975707ead84129cac20
+SHA1: 53fec2d2da1d8dce45eb9e74b57e2c8fa02d1e1b
+SHA256: 41f39a5c76b5a887bdaafe2744e16b71fabd318fb25a1b3a7bdb864b0331727c
+Section: Tweaks
+Priority: optional
+Description: Akara
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Akara
+
+Package: com.kanji.badgebar
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader, ws.hbang.common (>= 14.4), ws.hbang.alderis (>= 1.1)
+Filename: ./deb/com.twickd.jannikcrack.badgebar_1.3.7_iphoneos-arm.deb
+Size: 150516
+MD5sum: a7c93661ef63d7df8c2ce931aee86b9e
+SHA1: 4cc3b59d213a9b33b926a9a013ecc25c4334aae6
+SHA256: 1940bf9fcaa9a09066b277ea0f99aaf68c8ddee6b21e13a634dea85c3519a054
+Section: Tweaks
+Priority: optional
+Description: BadgeBar
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: BadgeBar
+
+Package: com.kanji.dayn14
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 1.14), preferenceloader
+Filename: ./deb/com.devvix.dayn14_1.0.1_iphoneos-arm.deb
+Size: 565048
+MD5sum: b5d2bae7c748299707d287167a874115
+SHA1: 0da546e0000a740ee1da3dea072d64bdca851bf7
+SHA256: 4f9d43e1a2985fc7a3aa91b987d4b52085897511a32140984ba77a003a825aeb
+Section: Tweaks
+Priority: optional
+Description: Dayn (iOS 14)
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Dayn (iOS 14)
+
+Package: com.kanji.jellyfish
+Version: 1.6.5
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Filename: ./deb/xyz.royalapps.jellyfish_1.6.5_iphoneos-arm.deb
+Size: 69650
+MD5sum: 41900468078d0ac5811efeb2ec040447
+SHA1: 5fcbc295a3d5333cb686a2d61481d0e6df515dec
+SHA256: 700012ee99632947dfa51a05ecf8be53cb2e0cf41f372489e5a967975f3e0458
+Section: Tweaks
+Priority: optional
+Description: Jellyfish
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Jellyfish
