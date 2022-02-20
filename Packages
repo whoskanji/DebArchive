@@ -573,3 +573,54 @@ Description: ShortLook
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: ShortLook
+
+Package: com.kanji.lumi
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.foxfort.foxforttools (>= 1.2.21)
+Filename: ./deb/com.foxfort.lumi_2.0.1_iphoneos-arm.deb
+Size: 3230754
+MD5sum: bd39fa21616866cff9db68d82b232adf
+SHA1: 2c98a7ebfd944a4af4ffd8490b812b03060f69f5
+SHA256: 7ee8be4a7445df783f4fb292af831091ada2c761497714ca16720a8758af0a9c
+Section: Tweaks
+Priority: optional
+Description: Night mode camera
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Lumi
+
+Package: com.kanji.netfence
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), com.rpetrich.rocketbootstrap, preferenceloader, applist, com.foxfort.foxforttools (>= 1.2.23)
+Filename: ./deb/com.foxfort.netfence_1.2.10_iphoneos-arm.deb
+Size: 4486594
+MD5sum: 17fa003a986b439fd06629e275d99b0f
+SHA1: 4e406c61dd369c9ad78dc808708c4fa3a517165c
+SHA256: 449d0e08dac0ebcca5847b895a8c6f49af417f42d7fce1eada4b0637ee131bb3
+Section: Tweaks
+Priority: optional
+Description: Monitor your network traffic.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: NetFence
+
+Package: com.kanji.portraitxi
+Version: 4.1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.20)
+Filename: ./deb/com.foxfort.portraitxi_4.1.0_iphoneos-arm.deb
+Size: 13225612
+MD5sum: ca26648483a711e5f44b114c3c12ed16
+SHA1: 4767d250241f96be33ee027a460247894a88889f
+SHA256: 6fd72dd9595e7492773da6c65b109f37c3dd56c7271fa54bcdf2f3b2130b4401
+Section: Tweaks
+Priority: optional
+Description: Single camera portrait mode.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: PortraitXI
