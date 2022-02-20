@@ -641,3 +641,71 @@ Description: System-wide weather.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Asteroid
+
+Package: com.kanji.idunnou
+Version: 1.4.6
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx (>= 1.1.0)
+Filename: ./deb/com.jacobcxdev.idunnou_1.4.6_iphoneos-arm.deb
+Size: 868142
+MD5sum: 171569dd08ce61498672428a822aa517
+SHA1: a39d6341d453b0b439ba24cb16e8b17f11981ce6
+SHA256: 052c51e9b1ceed00ce5134878015ba0cbd51352ac5ef6d8a5cc41069c438d46f
+Section: Tweaks
+Priority: optional
+Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: iDunnoU
+
+Package: com.kanji.indy
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./deb/com.burritoz.thenatis.indy_1.2.0_iphoneos-arm.deb
+Size: 284086
+MD5sum: 05173b1a88951cb7ec2a571fece7040f
+SHA1: 4694f848afb01f76b6ff56eb1a0a91dae58a35d9
+SHA256: 9afb4579722f98f09493ab52cf7f4f4e445c843414d6ffb5310d2259a67f439c
+Section: Tweaks
+Priority: optional
+Description: Control from your status bar.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Indy
+
+Package: com.kanji.prokeys
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Filename: ./deb/xyz.royalapps.prokeys_1.1.2_iphoneos-arm.deb
+Size: 95474
+MD5sum: ab852491532e3ffcfd3e44d8dfc964d1
+SHA1: 228cd7d5316b121eff6a18ba9fe3c8172c38df36
+SHA256: 60110d3360a332e69fcbf81f011772c9139adbf72ffac7454b4f1c387e9adf5b
+Section: Tweaks
+Priority: optional
+Description: A tactile RGB keyboard for your iPhone.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: ProKeys
+
+Package: com.kanji.relocateme
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>= 14.0)
+Filename: ./deb/me.midnightchips.relocateme_1.0-2_iphoneos-arm.deb
+Size: 279990
+MD5sum: 185b7e31740cae347e2a9550d9589413
+SHA1: b92de035614daceff46c280d7f8a0f010707adb1
+SHA256: e957e3e139aaa8294625c2843d5bee7a49832e431fc8716c3c8d0909ac497541
+Section: Tweaks
+Priority: optional
+Description: Emulate iOS GPS Locations
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: RelocateMe
