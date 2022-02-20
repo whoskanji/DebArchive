@@ -302,3 +302,19 @@ Description: RealKeys
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: RealKeys
+
+Package: com.kanji.echoes
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Filename: ./deb/com.thetimeloop.echoes_2.0_iphoneos-arm.deb
+Size: 45193210
+MD5sum: a4b7af21db2223343689e7c9fa97c6a1
+SHA1: e9ed47f874f41bf91f15d0e13a385c2cea6622b8
+SHA256: f4eec4e295c200d53a3b2a8614bddc857225f248a4bfc14e0250bbe14849f0ed
+Section: Themes
+Priority: optional
+Description: echoes
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: echoes
