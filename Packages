@@ -539,3 +539,20 @@ Description: Snapper 2
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Snapper 2
+
+Package: com.kanji.touchbar
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, ws.hbang.common, libactivator
+Filename: ./deb/com.nahtedetihw.touchbar_1.3_iphoneos-arm.deb
+Size: 277252
+MD5sum: 1149298dcc2bbe0e5da1477c16c77fee
+SHA1: 3e5e9df0d366e40a9b41ce7f01b2273f528e18e7
+SHA256: 4d2cdba04eb609ef876aa7cbf84259ca22ab51fabc719351534b787da2bcf8c6
+Section: Tweaks
+Priority: optional
+Description: TouchBar
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: TouchBar
