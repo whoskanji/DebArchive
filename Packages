@@ -505,3 +505,37 @@ Description: NotchBanners
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: NotchBanners
+
+Package: com.kanji.dopeconvos
+Version: 4.6
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
+Filename: ./deb/com.nahtedetihw.dopeconvos_4.6_iphoneos-arm.deb
+Size: 17315196
+MD5sum: 883d839e1b3da378440b7d85ae1d4f70
+SHA1: 8e2b5f1b6243d4885f19fc88c5976665479836cc
+SHA256: 04cbf39e2a3d2867efab60e3ccc00033617a427991eea7c2299b87d84cb84b58
+Section: Tweaks
+Priority: optional
+Description: DopeConvos
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: DopeConvos
+
+Package: com.kanji.snapper2
+Version: 2.5.12
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, firmware (>=12.1)
+Filename: ./deb/com.jontelang.snapper2.packix_2.5.12_iphoneos-arm.deb
+Size: 423826
+MD5sum: 28f274fe9e0b36abeabc1ce2bd95bf5f
+SHA1: 2f6c392ab15aeff0b222190c44de8eddfa6ef836
+SHA256: e6cc49db98cf749b75cf2f8a759bfb80a7601dd62351d993ce8a4e8bbd5cc807
+Section: Tweaks
+Priority: optional
+Description: Snapper 2
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Snapper 2
