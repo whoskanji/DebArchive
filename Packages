@@ -715,3 +715,19 @@ Description: A cozy place for your badges.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: CozyBadges
+
+Package: com.kanji.roadrunner
+Version: 1.0-b4
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./deb/se.nosskirneh.roadrunner_1.0~beta4_iphoneos-arm.deb
+Size: 146282
+MD5sum: 0941f1630b33de0ffb157b876d81bd99
+SHA1: fe16d3a4bc47bbf5684dd7c9e645efe86726f63e
+SHA256: 514cef65a6e79f7f763b8ad13485d78b3322045be8b1d584d651a74ab5fb06de
+Section: Tweaks
+Description: Keep apps alive through resprings.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: RoadRunner
