@@ -715,3 +715,19 @@ Description: Keep apps alive through resprings.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: RoadRunner
+
+Package: com.kanji.shortmoji
+Version: 4.7
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./deb/com.miro.shortmoji_4.7_iphoneos-arm.deb
+Size: 1594726
+MD5sum: 60370725d44ddd79156a5166445753c1
+SHA1: 0b29d21b98ffa327f3c0775f18896ff0e5c67991
+SHA256: cb7bdc8b34dc08caea3c9d14f3658f6390828f062d5f89e947da6cc801202f22
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Shortmoji
