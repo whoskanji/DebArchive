@@ -731,3 +731,19 @@ Description: The ultimate keyboard tweak that iOS never had.
 Author: Kanji <tyler.clinton@icloud.com>
 Dev: Kanji
 Name: Shortmoji
+
+Package: com.kanji.emerald
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Kanji <tyler.clinton@icloud.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./deb/com.laughingquoll.emerald_1.0.7_iphoneos-arm.deb
+Size: 178626
+MD5sum: eb52761408a35d117e7fe042d5be9798
+SHA1: 7c54d0c828bd8d25c3120b8ed3a3713b464e6340
+SHA256: c40cc7c831c8cb69845c07262eeeeb2cb8544477c6d7deedefec2cf3724e91cf
+Section: Tweaks
+Description: Statusbar pills and platters.
+Author: Kanji <tyler.clinton@icloud.com>
+Dev: Kanji
+Name: Emerald
