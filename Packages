@@ -1,7 +1,7 @@
 Package: com.kanji.animplus
 Version: 2.5
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, firmware (<=15)
 Filename: ./deb/com.kanji.animplus_2.5_iphoneos-arm.deb
 Size: 78508
@@ -10,14 +10,14 @@ SHA1: 2ff1655905d2a5e87ab2ac6340fcc96d11668a70
 SHA256: 425e5b38badaed576ed474ce42774c1a7ee6c70dfb9e3ed7c2607a45529b07f2
 Section: Tweaks
 Description: Speed up animations with AnimPlus
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: AnimPlus
 
 Package: com.kanji.violaglyphs
 Version: 1.4
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate
 Filename: ./deb/com.kanji.violaglyphs_1.4_iphoneos-arm.deb
 Size: 24486820
@@ -26,14 +26,14 @@ SHA1: 8332bd076c16c5b68e88cabadd16e88e1687ae48
 SHA256: 9e945c6f998b4d82aec1f24cdaf0928312dae8a89ef93c1f869a78d16e2176bf
 Section: Themes
 Description: The glyph version of Viola
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Viola Glyphs
 
 Package: com.kanji.photomanager
 Version: 1.2.3
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
 Filename: ./deb/com.fpt.photomanager12_1.2.3_iphoneos-arm.deb
 Size: 233000
@@ -42,14 +42,14 @@ SHA1: 239c833c6497c364332f3cf5d3e2605a14b53cb2
 SHA256: 8fc06749310557584794816175f2fb1ca3d854b3ba15dbe538e6516089d3282d
 Section: Tweaks
 Description: Add many features to the Photos app.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: PhotoManager (iOS 12 - 14)
 
 Package: com.kanji.colorbadges
 Version: 1.5.0
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Filename: ./deb/com.golddavid.colorbadges-new_1.5.0_iphoneos-arm.deb
 Size: 59594
@@ -58,14 +58,14 @@ SHA1: 5134ac807e6968b3be1ebe853be146c930ef39ab
 SHA256: d658a49acf9556e610a12115067c1c38e26d1bdf053df70d6f2d81069f4e0fa6
 Section: Tweaks
 Description: Colorize your badges.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: ColorBadges
 
 Package: com.kanji.zenith14fix
 Version: 0.0.4
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, com.kanji.zenith
 Filename: ./deb/com.henrikssonbrothers.zenith14fix_0.0.4-2_iphoneos-arm.deb
 Size: 4056
@@ -74,14 +74,14 @@ SHA1: 0f75c48deb15e8070f2c05ddf265e880b222c481
 SHA256: 35124f7b67e12cbfda8e861a58a73c641f14fbd57561f452381ddeb75f5c2ec2
 Section: Tweaks
 Description: Make Zenith work on iOS 14
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Zenith iOS 14 Fix
 
 Package: com.kanji.zenith
 Version: 1.2.6
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Filename: ./deb/com.muirey03.zenith_1.2.6_iphoneos-arm.deb
 Size: 225182
@@ -90,14 +90,14 @@ SHA1: 32a0acbef23b6aecaf07b186fd13809a90b273a3
 SHA256: efbd8028b67d2451c00ed52bba738e73f67360177ca1955965fb8c72b41bd322
 Section: Tweaks
 Description: Organization done right.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Zenith
 
 Package: com.kanji.icontweak
 Version: 1.0.9
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader
 Filename: ./deb/com.ichitaso.icontweak_1.0.9_iphoneos-arm.deb
 Size: 105964
@@ -106,14 +106,14 @@ SHA1: 350d0d9f393be966685cdaa29e0ba8476a7f2e0f
 SHA256: c473c04d477cb84555ff6e0ce6520c03b59f13adc9befe7c7d28c5390f219076
 Section: Tweaks
 Description: Swipe icons to show control menu and more!
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: IconTweak
 
 Package: com.kanji.boxy4
 Version: 4.4.2
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader,
 Filename: ./deb/com.irepo.boxy4_4.4.2_iphoneos-arm.deb
 Size: 2768294
@@ -122,14 +122,14 @@ SHA1: 7534c9b5152c87cfc53be7e225a49e1a93b89f82
 SHA256: ff0e2dc7be117f6a9ccd51cf4bd532ebf25b03b67431c29a5efd2fdc7055b220
 Section: Tweaks
 Description: Fully customize your icon layout!
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Boxy 4
 
 Package: com.kanji.ccmodulespro
 Version: 1.1.4
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, firmware (>=11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1)
 Filename: ./deb/com.jailbreak365.ccmodulespro_1.1.4_iphoneos-arm.deb
 Size: 161628
@@ -138,14 +138,14 @@ SHA1: b2aa9772acf7e96b0fbebb155ad4b1bea0728009
 SHA256: 8a0ec956f1421ad2bfce181590decfd7429df4a70434880a1b8f57fa2672e33a
 Section: Tweaks
 Description: Increase the usability of your control center.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: CCModules Pro
 
 Package: com.kanji.prysm
 Version: 1.9.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Filename: ./deb/com.laughingquoll.prysm_1.9.1_iphoneos-arm.deb
 Size: 827372
@@ -154,14 +154,14 @@ SHA1: 381e6a4e19417b9fe158ab7a24b172f94817252c
 SHA256: 188cd8e316ef3df44ea0ec7c3e8815c214f053b47e5c3a0628a190ebcf631523
 Section: Tweaks
 Description: You control center, reimagined.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Prysm
 
 Package: com.kanji.quart
 Version: 1.4.6.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, com.laughingquoll.prefixui
 Filename: ./deb/com.laughingquoll.quart_1.4.6.1_iphoneos-arm.deb
 Size: 1079000
@@ -170,14 +170,14 @@ SHA1: ba057574cb467f8960334c8d405b7ce8b70b0ffc
 SHA256: e2745fa97fc81cecd11238008648bbb703194b128f3ba49f1ff9ca961c29624e
 Section: Tweaks
 Description: Notifications, redefined.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Quart
 
 Package: com.kanji.aesirpro
 Version: 1.3-5
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate
 Filename: ./deb/com.macs.aesirpro_1.3-5_iphoneos-arm.deb
 Size: 3081156
@@ -186,14 +186,14 @@ SHA1: 648012c89b1382aa4d67ed4a9c2df97bd8778c39
 SHA256: 779a97b3f9cf0c23aabb970b8f2e27808a7108c6e46c0f2af21bb01151b26335
 Section: Themes
 Description: A beautiful mix of color and sleekness to enhance your iOS 11 experience.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Aesir Pro
 
 Package: com.kanji.minotaur
 Version: 1.2.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader
 Filename: ./deb/com.muirey03.minotaur_1.2.1_iphoneos-arm.deb
 Size: 174286
@@ -202,14 +202,14 @@ SHA1: 05017cbfa7833be1215f93b9e1c79bbdb3bedd7a
 SHA256: 40add2cd0d5712c3a83b952f7ab44c1249cb6a5368a64498c3370a4f26dd07e3
 Section: Tweaks
 Description: Notifications in your Status Bar.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Minotaur
 
 Package: com.kanji.st5
 Version: 5.2.6
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
 Filename: ./deb/com.springtomize.st5_5.2.6_iphoneos-arm.deb
 Size: 461608
@@ -218,14 +218,14 @@ SHA1: e1616ba4df778008baad2523a56b143bd1cfa0f5
 SHA256: 0d0680d84b315892bb601fee3b1adbe8cb76716a04f4b839554d6e7a774e0843
 Section: Tweaks
 Description: Customize your device like never before.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Springtomize 5
 
 Package: com.kanji.sonus13
 Version: 1.0.5
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./deb/hi.my.name.is.ubik.sonus13_1.0.5_iphoneos-arm.deb
 Size: 118404
@@ -234,14 +234,14 @@ SHA1: f91986786cc4d98073b6b4ffbebf3c85f387569d
 SHA256: c67fe3342baca69b9d911c427eb38caf6c5cc877245b598f38cbf3e81c5ef034
 Section: Tweaks
 Description: A beautiful volume HUD replacement.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Sonus13
 
 Package: com.kanji.revaui
 Version: 3.0
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Filename: ./deb/io.alo.revaui_3.0_iphoneos-arm.deb
 Size: 7031422
 MD5sum: 7e91da6d850a4f1ce3f300a0f5aa5b2e
@@ -249,14 +249,14 @@ SHA1: f6f7443fed3b80f60d97320325fcdf4ae5baab5c
 SHA256: a30c61b582bc8e53420a0e9eda96bf66f55819c737e3af63182659f485e19812
 Section: Themes
 Description: A fresh new look for your iPhone!
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Reva UI
 
 Package: com.kanji.ventana
 Version: 1.7.0
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, org.coolstar.ldid, gzip
 Filename: ./deb/org.coolstar.ventana-modern_1.7.0_iphoneos-arm.deb
 Size: 275118
@@ -265,14 +265,14 @@ SHA1: c26b2ffc82c3d168bdc6620b1c801f76f9944a14
 SHA256: a90c2e3791e73743ad92dbf8007edf8f0e5eddacff871db529f8beb61c320e07
 Section: Tweaks
 Description: Modern lock screen inspired by Windows 10.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Ventana
 
 Package: com.kanji.realkeys
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./deb/xyz.royalapps.realkeys_1.0.3_iphoneos-arm.deb
 Size: 133544
@@ -281,14 +281,14 @@ SHA1: 687534ccf679ef1d208b4b86209909c5da9aa669
 SHA256: f70ab8bf6dfc928b1daee9a3e78406585a1826490c37d5f8723fd8c311b48cc6
 Section: Tweaks
 Description: RealKeys
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: RealKeys
 
 Package: com.kanji.echoes
 Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Filename: ./deb/com.thetimeloop.echoes_2.0_iphoneos-arm.deb
 Size: 45193210
 MD5sum: a4b7af21db2223343689e7c9fa97c6a1
@@ -296,14 +296,14 @@ SHA1: e9ed47f874f41bf91f15d0e13a385c2cea6622b8
 SHA256: f4eec4e295c200d53a3b2a8614bddc857225f248a4bfc14e0250bbe14849f0ed
 Section: Themes
 Description: Distant echoes.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: echoes
 
 Package: com.kanji.batterynotch
 Version: 1.7
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader
 Filename: ./deb/com.gilshahar7.batterynotch_1.7_iphoneos-arm.deb
 Size: 101594
@@ -312,14 +312,14 @@ SHA1: 9cddf4bdd88de1c8d77123825a04be61bf7d52be
 SHA256: e05e8d577150ae4bfd1bcc8704132a40aa3c70aa066e12984744649eff637f33
 Section: Tweaks
 Description: Represent battery around the notch.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: BatteryNotch
 
 Package: com.kanji.groups
 Version: 1.4.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1.2), firmware (>= 12), firmware (<< 15)
 Filename: ./deb/com.ryant453.groups_1.4.1_iphoneos-arm.deb
 Size: 289054
@@ -328,14 +328,14 @@ SHA1: f4dd6fe8a3be425491addff2befafc391e610c15
 SHA256: 458bd9bd05fc655c5d64db698efd9ff57b849cb32dd8d42841e3ed587f3c45b5
 Section: Tweaks
 Description: A new way to experience Messages.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Groups
 
 Package: com.kanji.atlas
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.15.1)
 Filename: ./deb/com.chr1s.atlas_1.0.1_iphoneos-arm.deb
 Size: 96386
@@ -344,14 +344,14 @@ SHA1: 8d7a21657b9e4141403abc0f733a221bacf4a716
 SHA256: d2c25872e6c3181e476f468b34270399f1a3cb63385d8aa2cc15abef2c7c3a52
 Section: Tweaks
 Description: Minimalistic video player replacement.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Atlas
 
 Package: com.kanji.badgebar
 Version: 1.1.0
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader, ws.hbang.common (>= 14.4), ws.hbang.alderis (>= 1.1)
 Filename: ./deb/com.twickd.jannikcrack.badgebar_1.3.7_iphoneos-arm.deb
 Size: 150516
@@ -360,14 +360,14 @@ SHA1: 4cc3b59d213a9b33b926a9a013ecc25c4334aae6
 SHA256: 1940bf9fcaa9a09066b277ea0f99aaf68c8ddee6b21e13a634dea85c3519a054
 Section: Tweaks
 Description: Replace the stock ugly Badges with a BadgeBar.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: BadgeBar
 
 Package: com.kanji.dayn14
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 1.14), preferenceloader
 Filename: ./deb/com.devvix.dayn14_1.0.1_iphoneos-arm.deb
 Size: 565048
@@ -376,14 +376,14 @@ SHA1: 0da546e0000a740ee1da3dea072d64bdca851bf7
 SHA256: 4f9d43e1a2985fc7a3aa91b987d4b52085897511a32140984ba77a003a825aeb
 Section: Tweaks
 Description: New notification concept.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Dayn (iOS 14)
 
 Package: com.kanji.jellyfish
 Version: 1.6.5
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
 Filename: ./deb/xyz.royalapps.jellyfish_1.6.5_iphoneos-arm.deb
 Size: 69650
@@ -392,14 +392,14 @@ SHA1: 5fcbc295a3d5333cb686a2d61481d0e6df515dec
 SHA256: 700012ee99632947dfa51a05ecf8be53cb2e0cf41f372489e5a967975f3e0458
 Section: Tweaks
 Description: Natural, Simple, Beautiful - Redesign your Lock Screen.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Jellyfish
 
 Package: com.kanji.notifillpro
 Version: 1.3.2
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./deb/com.raff.notifillpro_1.3.2_iphoneos-arm.deb
 Size: 21808
@@ -408,14 +408,14 @@ SHA1: ba04dce33a2618c37ae12bd89d1795a9d983e59d
 SHA256: 743a6b9b35631301d8ae5d11cc7522e978454769ccc3a340fc2510700ac890c4
 Section: Tweaks
 Description: Colorful notification banner animations.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: NotiFill Pro
 
 Package: com.kanji.dodo
 Version: 2.4.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.peterdev.libddokdo
 Filename: ./deb/com.ginsu.dodo_2.4.1_iphoneos-arm.deb
 Size: 303536
@@ -424,14 +424,14 @@ SHA1: 6c2c63983142e56e195070260e69c2d77706e64c
 SHA256: ff5edb2c1bba73afa64fa50cbd2a783d4db7c1a385cef503f67fc7e31e4f46b0
 Section: Tweaks
 Description: The perfect Lock Screen tweak.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Dodo
 
 Package: com.kanji.gradi
 Version: 1.2.2
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./deb/com.ginsu.gradi_1.2.2_iphoneos-arm.deb
 Size: 1222128
@@ -440,14 +440,14 @@ SHA1: df65cfdea0c7d42dfbf7596bd54ef2983dacfbb7
 SHA256: 3babe55e9102bc7cb0523116d413c56ff6a3073870bb26786b30a284dce30fdc
 Section: Tweaks
 Description: Replace the Lock Screen media player with the Google one.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Gradi
 
 Package: com.kanji.notchbanners
 Version: 1.0.8
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis, preferenceloader
 Filename: ./deb/com.ginsu.notchbanners_1.0.8_iphoneos-arm.deb
 Size: 157566
@@ -456,14 +456,14 @@ SHA1: b4e9e722e289036e3044d8e7e2366e1c676cb125
 SHA256: 04a749d420907ad33a36adc868afb3a12884465d7f056806df5bccdd34c84787
 Section: Tweaks
 Description: Notification banners in the notch!
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: NotchBanners
 
 Package: com.kanji.dopeconvos
 Version: 4.6
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
 Filename: ./deb/com.nahtedetihw.dopeconvos_4.6_iphoneos-arm.deb
 Size: 17315196
@@ -472,14 +472,14 @@ SHA1: 8e2b5f1b6243d4885f19fc88c5976665479836cc
 SHA256: 04cbf39e2a3d2867efab60e3ccc00033617a427991eea7c2299b87d84cb84b58
 Section: Tweaks
 Description: Make your Messages app dope!
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: DopeConvos
 
 Package: com.kanji.snapper2
 Version: 2.5.12
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, firmware (>=12.1)
 Filename: ./deb/com.jontelang.snapper2.packix_2.5.12_iphoneos-arm.deb
 Size: 423826
@@ -488,14 +488,14 @@ SHA1: 2f6c392ab15aeff0b222190c44de8eddfa6ef836
 SHA256: e6cc49db98cf749b75cf2f8a759bfb80a7601dd62351d993ce8a4e8bbd5cc807
 Section: Tweaks
 Description: Pin screenshots on the screen.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Snapper 2
 
 Package: com.kanji.touchbar
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, ws.hbang.common, libactivator
 Filename: ./deb/com.nahtedetihw.touchbar_1.3_iphoneos-arm.deb
 Size: 277252
@@ -504,14 +504,14 @@ SHA1: 3e5e9df0d366e40a9b41ce7f01b2273f528e18e7
 SHA256: 4d2cdba04eb609ef876aa7cbf84259ca22ab51fabc719351534b787da2bcf8c6
 Section: Tweaks
 Description: MacOS TouchBar on iOS!
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: TouchBar
 
 Package: com.kanji.shortlook
 Version: 1.0.23
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
 Filename: ./deb/co.dynastic.ios.tweak.shortlook_1.0.23_iphoneos-arm.deb
 Size: 1294668
@@ -520,14 +520,14 @@ SHA1: 576514c2bc46176e61f80e7e9d054b584da6b2a6
 SHA256: a8ff2a582ebe1d6e2f5f3b89e101abad938769da32aeceb973fd5ef11e6441ff
 Section: Tweaks
 Description: Your notifications. At a glance.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: ShortLook
 
 Package: com.kanji.lumi
 Version: 2.0.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.foxfort.foxforttools (>= 1.2.21)
 Filename: ./deb/com.foxfort.lumi_2.0.1_iphoneos-arm.deb
 Size: 3230754
@@ -536,14 +536,14 @@ SHA1: 2c98a7ebfd944a4af4ffd8490b812b03060f69f5
 SHA256: 7ee8be4a7445df783f4fb292af831091ada2c761497714ca16720a8758af0a9c
 Section: Tweaks
 Description: Night mode camera
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Lumi
 
 Package: com.kanji.netfence
 Version: 1.2.10
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), com.rpetrich.rocketbootstrap, preferenceloader, applist, com.foxfort.foxforttools (>= 1.2.23)
 Filename: ./deb/com.foxfort.netfence_1.2.10_iphoneos-arm.deb
 Size: 4486594
@@ -552,14 +552,14 @@ SHA1: 4e406c61dd369c9ad78dc808708c4fa3a517165c
 SHA256: 449d0e08dac0ebcca5847b895a8c6f49af417f42d7fce1eada4b0637ee131bb3
 Section: Tweaks
 Description: Monitor your network traffic.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: NetFence
 
 Package: com.kanji.portraitxi
 Version: 4.1.0
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.20)
 Filename: ./deb/com.foxfort.portraitxi_4.1.0_iphoneos-arm.deb
 Size: 13225612
@@ -568,14 +568,14 @@ SHA1: 4767d250241f96be33ee027a460247894a88889f
 SHA256: 6fd72dd9595e7492773da6c65b109f37c3dd56c7271fa54bcdf2f3b2130b4401
 Section: Tweaks
 Description: Single camera portrait mode.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: PortraitXI
 
 Package: com.kanji.asteroid14
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0.0), ws.hbang.common (>= 1.17), com.opa334.altlist
 Filename: ./deb/me.midnightchips.asteroid14_1.0.1_iphoneos-arm.deb
 Size: 339406
@@ -584,14 +584,14 @@ SHA1: a3a4f7890d70a7ddc4398d2e5670fc6857bffda8
 SHA256: 194077a010ce49701023059fb6499201d00735a9378c74d8d37bcdffdf8dfa71
 Section: Tweaks
 Description: System-wide weather.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Asteroid
 
 Package: com.kanji.idunnou
 Version: 1.4.6
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx (>= 1.1.0)
 Filename: ./deb/com.jacobcxdev.idunnou_1.4.6_iphoneos-arm.deb
 Size: 868142
@@ -600,14 +600,14 @@ SHA1: a39d6341d453b0b439ba24cb16e8b17f11981ce6
 SHA256: 052c51e9b1ceed00ce5134878015ba0cbd51352ac5ef6d8a5cc41069c438d46f
 Section: Tweaks
 Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: iDunnoU
 
 Package: com.kanji.indy
 Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./deb/com.burritoz.thenatis.indy_1.2.0_iphoneos-arm.deb
 Size: 284086
@@ -616,14 +616,14 @@ SHA1: 4694f848afb01f76b6ff56eb1a0a91dae58a35d9
 SHA256: 9afb4579722f98f09493ab52cf7f4f4e445c843414d6ffb5310d2259a67f439c
 Section: Tweaks
 Description: Control from your status bar.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Indy
 
 Package: com.kanji.prokeys
 Version: 1.1.2
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
 Filename: ./deb/xyz.royalapps.prokeys_1.1.2_iphoneos-arm.deb
 Size: 95474
@@ -632,14 +632,14 @@ SHA1: 228cd7d5316b121eff6a18ba9fe3c8172c38df36
 SHA256: 60110d3360a332e69fcbf81f011772c9139adbf72ffac7454b4f1c387e9adf5b
 Section: Tweaks
 Description: A tactile RGB keyboard for your iPhone.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: ProKeys
 
 Package: com.kanji.docksearch
 Version: 1.0.7
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./deb/com.ginsu.docksearch_1.0.7_iphoneos-arm.deb
 Size: 158956
@@ -648,14 +648,14 @@ SHA1: 8c2ee2b40461438e3c81b03897c74db4b9aad7df
 SHA256: ec4a207e0892406a2319540542ad2f38b0615e3f2d450145b1c7dfbda6f2d8ac
 Section: Tweaks
 Description: Search the web from your Home Screen
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: DockSearch
 
 Package: com.kanji.gesto13
 Version: 1.2.1
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
 Filename: ./deb/com.blackhole.gesto13_1.2.1_iphoneos-arm.deb
 Size: 915452
@@ -664,14 +664,14 @@ SHA1: ae4accfee88b34c35ac60058c9a0b827188c52c2
 SHA256: 293a69cee6a624d81193ca5e2beccb372f7ed909c80f4a75b2ae694ea9055137
 Section: Tweaks
 Description: Gesto enhances iOS's multitasking view, making it powerful yet familiar, with a native-looking design and gorgeous animations.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Gesto for iOS 13/14
 
 Package: com.kanji.lynxtwo
 Version: 2.3.2
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common
 Filename: ./deb/com.mtac.lynxtwo_2.3.2_iphoneos-arm.deb
 Size: 992948
@@ -680,14 +680,14 @@ SHA1: b70efd50a341b7459bf01a370687bbe0b8296c2b
 SHA256: 0340767c7404be918b59c9870bca21d174030d5c15a9c6abb3a198a26a29baff
 Section: Tweaks
 Description: Ultimate iDevice Customization for iOS 14+
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Lynx 2
 
 Package: com.kanji.cozybadges
 Version: 1.2.3
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
 Filename: ./deb/com.noisyflake.cozybadges_1.2.3_iphoneos-arm.deb
 Size: 47984
@@ -696,14 +696,14 @@ SHA1: 26f4b1667000556400102937087112f88c7a3a68
 SHA256: 1b6668f6ee5713303c3b1cebecf086ce6c5925e236f0711bf154f56012fe6d38
 Section: Tweaks
 Description: A cozy place for your badges.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: CozyBadges
 
 Package: com.kanji.roadrunner
 Version: 1.0-b4
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
 Filename: ./deb/se.nosskirneh.roadrunner_1.0~beta4_iphoneos-arm.deb
 Size: 146282
@@ -712,14 +712,14 @@ SHA1: fe16d3a4bc47bbf5684dd7c9e645efe86726f63e
 SHA256: 514cef65a6e79f7f763b8ad13485d78b3322045be8b1d584d651a74ab5fb06de
 Section: Tweaks
 Description: Keep apps alive through resprings.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: RoadRunner
 
 Package: com.kanji.shortmoji
 Version: 4.7
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
 Filename: ./deb/com.miro.shortmoji_4.7_iphoneos-arm.deb
 Size: 1594726
@@ -728,14 +728,14 @@ SHA1: 0b29d21b98ffa327f3c0775f18896ff0e5c67991
 SHA256: cb7bdc8b34dc08caea3c9d14f3658f6390828f062d5f89e947da6cc801202f22
 Section: Tweaks
 Description: The ultimate keyboard tweak that iOS never had.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Shortmoji
 
 Package: com.kanji.emerald
 Version: 1.0.7
 Architecture: iphoneos-arm
-Maintainer: Kanji <tyler.clinton@icloud.com>
+Maintainer: Kanji <kanjismc@hotmail.com>
 Depends: mobilesubstrate, com.laughingquoll.prefixui
 Filename: ./deb/com.laughingquoll.emerald_1.0.7_iphoneos-arm.deb
 Size: 178626
@@ -744,6 +744,21 @@ SHA1: 7c54d0c828bd8d25c3120b8ed3a3713b464e6340
 SHA256: c40cc7c831c8cb69845c07262eeeeb2cb8544477c6d7deedefec2cf3724e91cf
 Section: Tweaks
 Description: Statusbar pills and platters.
-Author: Kanji <tyler.clinton@icloud.com>
+Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Emerald
+
+Package: com.kanji.gateau
+Version: 1.60
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.stevsarm.gateau_1.60_iphoneos-arm.deb
+Size: 30780110
+MD5sum: 8cdcf0f8b25ffa39c9c077def82c6161
+SHA1: 18d0b9aa5a1dc32dbc5d1677b2f7b5ac3babb47b
+SHA256: 2c8355b56728b171c040450a734404569c4458d8c78466df53a54006b98b2b21
+Section: Themes
+Description: Subtly Glowing Glyphs
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Gateau
