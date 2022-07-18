@@ -768,10 +768,10 @@ Version: 4.5-19
 Architecture: iphoneos-arm
 Maintainer: Kanji <kanjismc@hotmail.com>
 Filename: ./deb/com.kanji.bioprotect_4.5-19_iphoneos-arm.deb
-Size: 30780110
-MD5sum: 8cdcf0f8b25ffa39c9c077def82c6161
-SHA1: 18d0b9aa5a1dc32dbc5d1677b2f7b5ac3babb47b
-SHA256: 2c8355b56728b171c040450a734404569c4458d8c78466df53a54006b98b2b21
+Size: 624846
+MD5sum: 2ea56075a0f2f19c152a3948cbfbabd2
+SHA1: 33b3d440374ca21ec439262ffa51718810e46088
+SHA256: e5154f71512e2c8f23065adbb0e7ec05603076fef3d35d979f04ab1b634b48b3
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID.
 Author: Kanji <kanjismc@hotmail.com>
