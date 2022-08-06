@@ -777,3 +777,275 @@ Description: Crack for all Hyperixa tweaks.
 Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Hyperixa Crack
+
+Package: com.kanji.avatar
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.avatar_2.0_iphoneos-arm.deb
+Size: 11117354
+MD5sum: 07b86c1d8db0e36994c64df70793fc6a
+SHA1: e198ad1aacc4a36a6d754968713295880e206858
+SHA256: fec30b530c1ed13a8c33f4032a747e1a8df541dd0d987ca999230e4ccf9dc2c7
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack,
+Description: Avatar studio for Memoji and Animoji.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Avatar
+
+Package: com.kanji.bounds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.bounds_1.0_iphoneos-arm.deb
+Size: 1954504
+MD5sum: 142b40656cf4fadefdd3b69ebb30dc6a
+SHA1: 53daab9d69e77a8cd0633f7b6c519453fdb0f1bf
+SHA256: 8e93b7dcee1396beb74ea180b865312f8eaf61edbb11b733f6de97b750b6f0cb
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack,
+Description: Cropped screen recording area.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Bounds
+
+Package: com.kanji.commandify
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.commandify_1.0_iphoneos-arm.deb
+Size: 279490
+MD5sum: 095cd953916902ec996a4466c980f1fd
+SHA1: f10978f5d72f9813b54edbbb16189c63d990de14
+SHA256: 19b22e8217d060d62765024568448c83ddc645b95536e872b85aa28cce00e18e
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack,
+Description: Unleash Siri's full potential and power.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Commandify
+
+Package: com.kanji.digitnetic
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.digitnetic_2.0_iphoneos-arm.deb
+Size: 1149720
+MD5sum: 8201127938aa3e5246bc51ee83785d94
+SHA1: 57f4318bb4361be7b057047c5efe182c55bbd790
+SHA256: 74d358b8770f7b6be9be50dcdcd2ef089c8fbc9363349b15487aa11e25797fd4
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack,
+Description: Floating phone keypad and calulator.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Digitnetic
+
+Package: com.kanji.expanse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.expanse_1.0_iphoneos-arm.deb
+Size: 523500
+MD5sum: a4e9328b2ccbdf85913e1735f5dabb87
+SHA1: 381f4b5adfe566fb8968197338f22ce2a3c5a734
+SHA256: 8955ca3223eb7dc903aee52b4f8526ddf393d8e3c873ced46e987337e3c6f661
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: SpringBoard wallpaper for individual pages.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Expanse
+
+Package: com.kanji.helix
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.helix_1.3_iphoneos-arm.deb
+Size: 21430574
+MD5sum: 52a77b2b76b3dde7edb232b2389a70b6
+SHA1: 7eabb730b43d45eef739ec0f3f3c8cdfc5de96f8
+SHA256: 5b94cf0b63a76da80c4dd1774d6f96318b6ca2a69ade6470947d448bf41ae581
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack,
+Description: iOS 16 Lock Screen.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Helix
+
+Package: com.kanji.iconnect
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.iconnect_1.0_iphoneos-arm.deb
+Size: 2355754
+MD5sum: 9052fea8cb2e15244ea4362ab6c9d68f
+SHA1: 5614a17aa77911978aa6f628224f2442ab3d9ce3
+SHA256: f42100e9c6733c4601c07fb7114d9ca7d06d5bab02c25b12ec31b1485eac271a
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack,
+Description: Swiftly message your friends and family.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: iConnect
+
+Package: com.kanji.idevices
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.idevices_2.0_iphoneos-arm.deb
+Size: 745568
+MD5sum: 02925a2777066274e103cea55c150eb6
+SHA1: 341c53ca0ac32a0c1bde7e0cadf12f858a5132d7
+SHA256: d66156afc32a948ac9cfb5f61714231e54191202eb5dbe93fc10d17ffe077f61
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: More information about your devices.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: iDevices
+
+Package: com.kanji.insta
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.insta_1.1_iphoneos-arm.deb
+Size: 757848
+MD5sum: 28e5b99b53ee84edb4efd23f79c52b03
+SHA1: f5cc646f492c8357fb863f9c5099d21c91054791
+SHA256: a852a971b8d06c9f8a34d7a64d5793f718daff3dcada8e0fd2eed899d724741d
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: Fake chats and calls from any Instagram user.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Insta
+
+Package: com.kanji.logify
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.logify_1.0_iphoneos-arm.deb
+Size: 467020
+MD5sum: 999e3117436e52a693cbfd0f81bb6143
+SHA1: c65d7522abcf1f6bd62111e16b53ce87d5c456fa
+SHA256: 0b905d0e815a6abd95097a366a02914310717e3eae0396511fe2fe879abcdaa4
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: Add a fake call log to your phone call history.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Logify
+
+Package: com.kanji.nova
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.nova_2.0_iphoneos-arm.deb
+Size: 682902
+MD5sum: f435acc8dba35a6839dbd450676db142
+SHA1: 038f2d3b5dd25275e4850dac50c8c6fc5c9f22f7
+SHA256: 6aea1ed05820bdf09df207613b995d5cbe21683f4c03ed6cb8c669fdf1bab5f6
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: Schedule messages for the Messages app.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Nova
+
+Package: com.kanji.paradise
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.paradise_2.0_iphoneos-arm.deb
+Size: 8095830
+MD5sum: 3fd69217fdf13560b949013c304700c3
+SHA1: 963ae7e466bafc8b57a393f8ec48bde9ab0d5b03
+SHA256: 28eeecece7cd59bf28f206ba39fc535d0fb32e0ad8f67fdc66b3d5ad1b597fc1
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: Customize SpringBoard applications.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Paradise
+
+Package: com.kanji.phoenix
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.phoenix_2.1_iphoneos-arm.deb
+Size: 600560
+MD5sum: 4fcab24235b2275679109c1e62330a29
+SHA1: b0c963bddf6833bdff360a1cb160f52b09864824
+SHA256: 53be3de866f6c94b210c5709ebcc1396b2ea30bbaa93441e8c35bba7bc47b7ed
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: A redesign of the contact list for the Phone app.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Phoenix
+
+Package: com.kanji.pixel
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.pixel_1.0_iphoneos-arm.deb
+Size: 9182526
+MD5sum: dd13397385701d37f7b0c945d1263de8
+SHA1: 48f2f8b6a06aeff6a077cfaf86f9e3773ee014af
+SHA256: 4d82d41d03f28b65978a30c50d56a599ada9f7474e18ce41a9188a1fab36ad98
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: Built-in camera for the Photos app.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Pixel
+
+Package: com.kanji.resurrection
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.resurrection_1.1_iphoneos-arm.deb
+Size: 731986
+MD5sum: 920b41c3689c2dba2ac6c2b67a1a1c16
+SHA1: 98a3838c15a03c431fa722e878e02967fd36724a
+SHA256: 58bdccc8a30c9d1e8cec0679acc7675aeb04fac00fc59672dafaa535711b4191
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: A completely redesigned dialer for the Phone app.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Resurrection
+
+Package: com.kanji.setupify
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.setupify_1.1_iphoneos-arm.deb
+Size: 1150438
+MD5sum: dd453abd3a4273cdee5b9b9aabfa82ca
+SHA1: d42e1b03ab85ee52981e7ae31d12db2cf3d62e89
+SHA256: 8bad3e6db4f7aec1c764bffdf6e19e5c6117a1f8a5bdd7719af25c3bb4594225
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: Create multiple setups for tweak preferences and restore them.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Setupify
+
+Package: com.kanji.surge
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.surge_2.0_iphoneos-arm.deb
+Size: 972282
+MD5sum: 3c38ca3d014ef000a907868d732b1226
+SHA1: 9b7654ba8afa4e75b684e0e14e83c55dbbcf6c9c
+SHA256: 1344e06c4972836a3b0b2787ca146538d46a64b3f5e7d7f8d48f8f0f9b3513d7
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.kanji.hyperixacrack
+Description: Low Power Alert.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Surge
