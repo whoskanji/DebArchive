@@ -762,3 +762,18 @@ Description: Subtly Glowing Glyphs
 Author: Kanji <kanjismc@hotmail.com>
 Dev: Kanji
 Name: Gateau
+
+Package: com.kanji.hyperixacrack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Filename: ./deb/com.kanji.hyperixacrack_1.0_iphoneos-arm.deb
+Size: 22722
+MD5sum: 4ffd2e56498bdb696f7d9fc172ffb9ae
+SHA1: cae4e43d2258770e697e90766eecf10f1babf98e
+SHA256: 634c0131919a54f4a2551ca8faa9fbc3e7938d3edb5b895a61df07677381a99b
+Section: Tweaks
+Description: Crack for all Hyperixa tweaks.
+Author: Kanji <kanjismc@hotmail.com>
+Dev: Kanji
+Name: Hyperixa Crack
