@@ -1,8 +1,9 @@
-Origin: Kanji // 漢字
-Label: Kanji // 漢字
+Origin: Kanji's Debs // 思考デブ
+Label: Kanji's Debs // 思考デブ
 Suite: stable
 Version: 1.0
+Codename: Kanji
 Architectures: iphoneos-arm
-Codename: cydia-ios
 Components: main
-Description: I like to mess around with code.
+Description: Kanji's Fuck Shit Repo
+Icon: file://CydiaIcon.png
