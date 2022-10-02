@@ -684,6 +684,22 @@ Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
 Name: Snapper 2
 
+Package: com.kanji.prokeys
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjisms@hotmail.com>
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: xyz.royalapps.realkeys
+Filename: ./deb/com.kanji.prokeys_1.1.2_iphoneos-arm.deb
+Size: 133232
+MD5sum: 5fa4e3ea830143ab383f0b45a31c46db
+SHA1: dff9de9d8e10963d4930554a12c84da0ef717239
+SHA256: c291463574a8c176d97b11e024602b85e2db66f2dfed5a61e35c2a5e5ae437b7
+Description: A Tactile RGB Keyboard for your iPhone
+Author: Kanji <kanjisms@hotmail.com>
+Name: ProKeys
+
 Package: com.laughingquoll.emerald
 Version: 1.0.7
 Architecture: iphoneos-arm
@@ -907,24 +923,3 @@ Author: Justin Proulx & Ayden Panhuyzen <justinproulxapps@outlook.com>
 Depiction: https://chariz.com/buy/jellyfish
 Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
 Name: Jellyfish
-
-Package: xyz.royalapps.prokeys
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: Justin Proulx <justinproulxapps@outlook.com>
-Installed-Size: 528
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
-Conflicts: xyz.royalapps.realkeys
-Filename: ./deb/xyz.royalapps.prokeys_1.1.2_iphoneos-arm.deb
-Size: 95474
-MD5sum: ab852491532e3ffcfd3e44d8dfc964d1
-SHA1: 228cd7d5316b121eff6a18ba9fe3c8172c38df36
-SHA256: 60110d3360a332e69fcbf81f011772c9139adbf72ffac7454b4f1c387e9adf5b
-Section: Tweaks
-Description: A Tactile RGB Keyboard for your iPhone
-Tag: cydia::commercial, compatible_min::ios13.0
-Author: Justin Proulx <justinproulxapps@outlook.com>
-Depiction: https://chariz.com/buy/prokeys
-Icon: https://cdn.chariz.cloud/icon/prokeys/icon@3x.png
-Name: ProKeys
-
