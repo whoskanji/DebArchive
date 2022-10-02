@@ -684,22 +684,6 @@ Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
 Name: Snapper 2
 
-Package: com.kanji.prokeys
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: Kanji <kanjisms@hotmail.com>
-Installed-Size: 528
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
-Conflicts: xyz.royalapps.realkeys
-Filename: ./deb/com.kanji.prokeys_1.1.2_iphoneos-arm.deb
-Size: 133232
-MD5sum: 5fa4e3ea830143ab383f0b45a31c46db
-SHA1: dff9de9d8e10963d4930554a12c84da0ef717239
-SHA256: c291463574a8c176d97b11e024602b85e2db66f2dfed5a61e35c2a5e5ae437b7
-Description: A Tactile RGB Keyboard for your iPhone
-Author: Kanji <kanjisms@hotmail.com>
-Name: ProKeys
-
 Package: com.laughingquoll.emerald
 Version: 1.0.7
 Architecture: iphoneos-arm
@@ -923,3 +907,4 @@ Author: Justin Proulx & Ayden Panhuyzen <justinproulxapps@outlook.com>
 Depiction: https://chariz.com/buy/jellyfish
 Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
 Name: Jellyfish
+
