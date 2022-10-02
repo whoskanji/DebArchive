@@ -1,16 +1,396 @@
 Package: com.hyperixa.avatar
 Version: 2.2
 Architecture: iphoneos-arm
-Maintainer: Kanji
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
 Installed-Size: 13420
-Depends: mobilesubstrate, com.hyperixa.hyperixa, com.hyperixa.hyperixakit
-Filename: ./debs/com.hyperixa.avatar_2.2_iphoneos-arm.deb
-Size: 11336
-MD5sum: 61d4cb97c4248557a9f6672808c16294
-SHA1: 68afa18c9718aa6caa590ea5ea19e77ab9c0daaa
-SHA256: f14870582056795c9575881051244fb9509623c90da10e716f43feaeb6dcf03e
-Section: Hyperixa
-Homepage: https://whoskanji.com
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.avatar_2.2_iphoneos-arm.deb
+Size: 11567236
+MD5sum: 0b5056f99baf30e322beb6f477814ad4
+SHA1: fc8719d68c2f43f942c5d80cd515794f16973fb5
+SHA256: 11aa2659748616d113869f603758e79c042bb9ffec88b0848d107ff05b18d972
+Section: Tweaks
 Description: Avatar studio for Memoji and Animoji
-Author: Kanji
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/avatar/index.html
+Icon: https://repo.hyperixa.com/depictions/avatar/assets/icon.png
 Name: Avatar
+
+Package: com.hyperixa.bounds
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 2544
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./deb/com.hyperixa.bounds_1.2_iphoneos-arm.deb
+Size: 1992268
+MD5sum: 730f4387f3d6132e985cf6fa60719da7
+SHA1: a09d1e16fe903fe7371663a38c84d354e8d65429
+SHA256: 5b5d5abaec3a3c8d2d96062c92eac8ec1eded2310b6bc45d2983fa0588b3e07c
+Section: Tweaks
+Description: Cropped screen recording area
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/bounds/index.html
+Icon: https://repo.hyperixa.com/depictions/bounds/assets/icon.png
+Name: Bounds
+
+Package: com.hyperixa.commandify
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 624
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.commandify_1.2_iphoneos-arm.deb
+Size: 287676
+MD5sum: 81f6656f3915119157d9ef490eb4da6e
+SHA1: a931edbf6156d42104a2a60dad869bc4d63cf179
+SHA256: 1c7c226c638f699698557f1fbada96f2b723f33934728ccf71f2f5c8c9569cba
+Section: Tweaks
+Description: Commandify unleashes Siri’s full potential and capability
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/commandify/index.html
+Icon: https://repo.hyperixa.com/depictions/commandify/assets/icon.png
+Name: Commandify
+
+Package: com.hyperixa.digitnetic
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1592
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, libactivator, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.digitnetic_2.2_iphoneos-arm.deb
+Size: 1170432
+MD5sum: 151f41e7a4eac9eb5d278e281c0f17a8
+SHA1: 68866eed7a3b08ceeb261a1b1371df698b367343
+SHA256: 500c2951e92a7803410e3a61c7a83d404849d2389c981924354017137c00627c
+Section: Tweaks
+Description: Floating phone keypad and calculator
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/digitnetic/index.html
+Icon: https://repo.hyperixa.com/depictions/digitnetic/assets/icon.png
+Name: Digitnetic
+
+Package: com.hyperixa.echo
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 2216
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./deb/com.hyperixa.echo_1.3_iphoneos-arm.deb
+Size: 1887436
+MD5sum: 3e103d532adb7cbb59c0e0829dc32507
+SHA1: b2202cb00d3241dd6f76884e3dfa1a4358eee501
+SHA256: 04798e513b716d9d4d99a575a26013cf15704820b7f599ef395e8d32a79f810f
+Section: Tweaks
+Description: An iOS 16 lockscreen music player
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/echo/index.html
+Icon: https://repo.hyperixa.com/depictions/echo/assets/icon.png
+Name: Echo
+
+Package: com.hyperixa.expanse
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 880
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.expanse_1.2_iphoneos-arm.deb
+Size: 531862
+MD5sum: bb0a124f9a17d5c042df27d5cf53d2b3
+SHA1: 14123fd6332abe9c8b64d027656a991e0b466adb
+SHA256: 17d99f6f6d828918cca76acc40cf706c3ee2a8fb5209bf825374408d882d70a1
+Section: Tweaks
+Description: SpringBoard wallpaper for individual pages
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/expanse/index.html
+Icon: https://repo.hyperixa.com/depictions/expanse/assets/icon.png
+Name: Expanse
+
+Package: com.hyperixa.helix
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 26976
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./deb/com.hyperixa.helix_1.5_iphoneos-arm.deb
+Size: 22058830
+MD5sum: d087366c2a7ec0cb530623fe3b01df72
+SHA1: 509a88f71a8dd89f17b445c408964d4db20bc5af
+SHA256: 8b99e8cb18a19c7b91cc3502390c90a693f2e33630960853545997fecff66c58
+Section: Tweaks
+Description: iOS 16 Lockscreen
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/helix/index.html
+Icon: https://repo.hyperixa.com/depictions/helix/assets/icon.png
+Name: Helix
+
+Package: com.hyperixa.hola
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 884
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./deb/com.hyperixa.hola_1.2_iphoneos-arm.deb
+Size: 482160
+MD5sum: 6902c35fb5841988cd658d0d2f8a3d2b
+SHA1: 628504e6a66dd2ac834fdd89fa9658b7b44cd655
+SHA256: c88bf4995d3453f23b5bb3d3d0a201fbc86e2c1fae55bfa8a6400fd50049fa2e
+Section: Tweaks
+Description: Shows iOS 15 hello greeting feature when unlocking your device
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/hola/index.html
+Icon: https://repo.hyperixa.com/depictions/hola/assets/icon.png
+Name: Hola
+
+Package: com.hyperixa.hyperixa
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 4404
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.hyperixa_1.1_iphoneos-arm.deb
+Size: 3067162
+MD5sum: 366d65d91a7bfb24640999320fd09709
+SHA1: 28a90a2ddc35f8b4da8b685b19d2b9d7b4d089cf
+SHA256: 2a47b61044f68fb08afd9bca670f93ab9f99ec785874ed4b1a38554fa3c59b59
+Section: Tweaks
+Description: Hyperixa app to manage Hyperixa's tweaks
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/hyperixa/index.html
+Icon: https://repo.hyperixa.com/depictions/hyperixa/assets/icon.png
+Name: Hyperixa
+
+Package: com.hyperixa.hyperixakit
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Hyperixa
+Installed-Size: 1480
+Filename: ./deb/com.hyperixa.hyperixakit_1.1_iphoneos-arm.deb
+Size: 432806
+MD5sum: 715d283ab7b5793438a20db3d3945b5e
+SHA1: 16c630244e1951a313d7040c8203113342dfcd4e
+SHA256: bc2cf4a59590fdb122a835d1c3c1d9a8ddd073f54971bdd8631edfa6522f7d36
+Section: System
+Description: Framework for Hyperixa tweaks
+Tag: role::developer
+Author: Hyperixa
+Depiction: https://repo.hyperixa.com/depictions/hyperixakit/index.html
+Icon: https://repo.hyperixa.com/depictions/hyperixakit/assets/icon.png
+Name: HyperixaKit
+
+Package: com.hyperixa.iconnect
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 2852
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.rpetrich.rocketbootstrap (>= 1.0.2), firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.iconnect_1.2_iphoneos-arm.deb
+Size: 2485282
+MD5sum: ac9046f2e78e54c752f4277a9b05ed46
+SHA1: bc6b218cc8e1f6754bc81ed3cc25248cfe5585b8
+SHA256: 522b730599024252c947330bd4804486825dbf71c0538a3b40a80785cddf03fa
+Section: Tweaks
+Description: Swiftly message your friends and family
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/iconnect/index.html
+Icon: https://repo.hyperixa.com/depictions/iconnect/assets/icon.png
+Name: iConnect
+
+Package: com.hyperixa.idevices
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1512
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, applist, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.idevices_2.2_iphoneos-arm.deb
+Size: 811578
+MD5sum: 377302b92eba41806884e1431d9d3958
+SHA1: a60c1ef70028c1f0d1f9e153c2860b789db063b3
+SHA256: b205673e14aefe076bff6ed64e4c92f4152feed75e74e1d3e3de2822c2ef85c0
+Section: Tweaks
+Description: More information about your devices
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/idevices/index.html
+Icon: https://repo.hyperixa.com/depictions/idevices/assets/icon.png
+Name: iDevices
+
+Package: com.hyperixa.insta
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1672
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.insta_1.3_iphoneos-arm.deb
+Size: 827712
+MD5sum: aaa7fb8e85c508ec2bcff0891ac458fc
+SHA1: 6909c7d8d085880cce33eb39adf35273d97e2367
+SHA256: 9ff34dcded654a0a3fc7225f8420bbca7ca4a64bdea9b5cf71abd3c309837bff
+Section: Tweaks
+Description: Fake chat and call for individual users on Instagram
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/insta/index.html
+Icon: https://repo.hyperixa.com/depictions/insta/assets/icon.png
+Name: Insta
+
+Package: com.hyperixa.logger
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 4664
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./deb/com.hyperixa.logger_1.3_iphoneos-arm.deb
+Size: 2420662
+MD5sum: 6112482ab51b6eca64a375a7ee5ef1f8
+SHA1: 2a638d651ad5a66e1c31b96bc0152632bf13ed57
+SHA256: 75b48674bde28c1c8348c7c8dfd1989d5551052fb9a7bfe0f2d088e2cf124a7d
+Section: Tweaks
+Description: Log keystroke and other useful information
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/logger/index.html
+Icon: https://repo.hyperixa.com/depictions/logger/assets/icon.png
+Name: Logger
+
+Package: com.hyperixa.logify
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 848
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.logify_1.2_iphoneos-arm.deb
+Size: 481868
+MD5sum: d4ae59e22a8dd9edde90da30d10d1e32
+SHA1: 153be772a733b9ee80deb9fc83fff2320099db20
+SHA256: 914b3cbe050de6aac23eedcda26f3e127b5bd0e1c09beea673bf0d5a63bb0d3a
+Section: Tweaks
+Description: Add a fake call history for the Phone app
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/logify/index.html
+Icon: https://repo.hyperixa.com/depictions/logify/assets/icon.png
+Name: Logify
+
+Package: com.hyperixa.nova
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1272
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./deb/com.hyperixa.nova_2.2_iphoneos-arm.deb
+Size: 725182
+MD5sum: 997d9f3d7f9b7d73d527726b1273bf75
+SHA1: c98f21a6a4bfceca7578984458893e08cfad18d3
+SHA256: 98c20eb3e171302174d3f6d8e529a49158f348dd8b389f09ef5d98cebf62f8d7
+Section: Tweaks
+Description: Schedule messages for Message app
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/nova/index.html
+Icon: https://repo.hyperixa.com/depictions/nova/assets/icon.png
+Name: Nova
+
+Package: com.hyperixa.paradise
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 9944
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.paradise_2.2_iphoneos-arm.deb
+Size: 8314124
+MD5sum: 8f3c51069ecc5dc10f041029d0700344
+SHA1: 6ed14a4e734349fa1896648960e52718e917c742
+SHA256: df901cf1b64fa6c2cae21ba0d460ac709e81b5ce79b3ae2b6c3530a69d1ec588
+Section: Tweaks
+Description: Customise springboard apps
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/paradise/index.html
+Icon: https://repo.hyperixa.com/depictions/paradise/assets/icon.png
+Name: Paradise
+
+Package: com.hyperixa.phoenix
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1292
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.phoenix_2.3_iphoneos-arm.deb
+Size: 659526
+MD5sum: db0d4dfef9f5a1be2fd0e45d202bcc5f
+SHA1: e6727b59e7f874a96b57121ed98c94346d120326
+SHA256: 0f093f5d9f41c61c02f5f5e5ffebe9f2a8398dece6211c5a561c0844dd414d6e
+Section: Tweaks
+Description: A redesign of the contact list for the Phone app
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/phoenix/index.html
+Icon: https://repo.hyperixa.com/depictions/phoenix/assets/icon.png
+Name: Phoenix
+
+Package: com.hyperixa.pixel
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 11440
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./deb/com.hyperixa.pixel_1.2_iphoneos-arm.deb
+Size: 9472374
+MD5sum: 9f291edd8ba6b8113b056023694187b9
+SHA1: 8268a30ddb66c6b06fb0aa1c9182e73c35907dd1
+SHA256: 3ca585d0403107f0487a2e816e2c4eaa3e6fb236b967e9ae2297d6b75fd84451
+Section: Tweaks
+Description: Built-in camera for the Photos app
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/pixel/index.html
+Icon: https://repo.hyperixa.com/depictions/pixel/assets/icon.png
+Name: Pixel
+
+Package: com.hyperixa.resurrection
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1480
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.resurrection_1.3_iphoneos-arm.deb
+Size: 827190
+MD5sum: cb1659eb3ad7d402c24a2bada920b842
+SHA1: 5d2d9dd28ccdb4f60ee16cd8f1aaf0d2c8a29d6f
+SHA256: 5f0bd43b6523048ff47a71b9d37438eee5b365136f2bdda69927d6d5852e7968
+Section: Tweaks
+Description: A completely redesigned dialer for the Phone app
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/resurrection/index.html
+Icon: https://repo.hyperixa.com/depictions/resurrection/assets/icon.png
+Name: Resurrection
+
+Package: com.hyperixa.setupify
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 2656
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.setupify_1.3_iphoneos-arm.deb
+Size: 1288820
+MD5sum: a852a224e4500be9a719ff17d82a4c8f
+SHA1: d539f6522d7c830e1ee6d92b528caefaa05cab49
+SHA256: cdaba3b0886398c22f04228e1df6f16d721341e530a0013083a6f3abb1dcef27
+Section: Tweaks
+Description: Create multiple setups for tweak preferences and restore setups
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/setupify/index.html
+Icon: https://repo.hyperixa.com/depictions/setupify/assets/icon.png
+Name: Setupify
+
+Package: com.hyperixa.surge
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1356
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./deb/com.hyperixa.surge_2.2_iphoneos-arm.deb
+Size: 985302
+MD5sum: 0b1bebc7b5be033e84722214d966ed51
+SHA1: 4cb7887534ada6db596b70ae999fdede27b91c2f
+SHA256: 8a036958da4f9aec47027435cb648f7c016fde7644b0e9e2ac7a6b634cd623a4
+Section: Tweaks
+Description: Low Power alert
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/surge/index.html
+Icon: https://repo.hyperixa.com/depictions/surge/assets/icon.png
+Name: Surge
+
