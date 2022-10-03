@@ -61,25 +61,6 @@ Description: The glyph version of Viola! (3 modes including settings)
 Author: bossgfx <bousrih20@gmail.com>
 Name: Viola Glyphs
 
-Package: com.burritoz.thenatis.indy
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: ren7995 <lau7995ren@gmail.com>
-Installed-Size: 1164
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./deb/com.burritoz.thenatis.indy_1.2.0_iphoneos-arm.deb
-Size: 284086
-MD5sum: 05173b1a88951cb7ec2a571fece7040f
-SHA1: 4694f848afb01f76b6ff56eb1a0a91dae58a35d9
-SHA256: 9afb4579722f98f09493ab52cf7f4f4e445c843414d6ffb5310d2259a67f439c
-Section: Tweaks
-Description: Control from your status bar.
-Tag: cydia::commercial, compatible_min::ios13.0
-Author: ren7995 <lau7995ren@gmail.com>
-Depiction: https://chariz.com/buy/indy
-Icon: https://chariz.com/cdn/icon/indy/icon@3x.png
-Name: Indy
-
 Package: com.chr1s.atlas
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -648,25 +629,6 @@ Depiction: https://repo.hyperixa.com/depictions/surge/index.html
 Icon: https://repo.hyperixa.com/depictions/surge/assets/icon.png
 Name: Surge
 
-Package: com.jacobcxdev.idunnou
-Version: 1.4.6
-Architecture: iphoneos-arm
-Maintainer: JacobCXDev <jacobcxdev@gmail.com>
-Installed-Size: 1204
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx (>= 1.1.0)
-Filename: ./deb/com.jacobcxdev.idunnou_1.4.6_iphoneos-arm.deb
-Size: 868142
-MD5sum: 171569dd08ce61498672428a822aa517
-SHA1: a39d6341d453b0b439ba24cb16e8b17f11981ce6
-SHA256: 052c51e9b1ceed00ce5134878015ba0cbd51352ac5ef6d8a5cc41069c438d46f
-Section: Tweaks
-Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
-Tag: cydia::commercial, compatible_min::ios13.0
-Author: JacobCXDev <jacobcxdev@gmail.com>
-Depiction: https://chariz.com/buy/idunnou
-Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
-Name: iDunnoU
-
 Package: com.jontelang.snapper2.packix
 Version: 2.5.12
 Architecture: iphoneos-arm
@@ -683,6 +645,137 @@ Section: Tweaks
 Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
 Name: Snapper 2
+
+Package: com.kanji.asteroid14
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Installed-Size: 1840
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0.0), ws.hbang.common (>= 1.17), com.opa334.altlist
+Filename: ./deb/com.kanji.asteroid14_1.0.1_iphoneos-arm.deb
+Size: 561186
+MD5sum: b049f05c96be83e5683811367d053a2f
+SHA1: 20b5c5097138b913d5c2fe08b51887e31364b38a
+SHA256: 754a7fa9508f6fc394fa36d76856825d08c7e72de15024b516e83b876a77b510
+Section: Tweaks
+Description: System-wide weather
+Author: Kanji <kanjismc@hotmail.com>
+Depiction: https://chariz.com/buy/asteroid
+Icon: https://cdn.chariz.cloud/icon/asteroid/icon@3x.png
+Name: Asteroid
+
+Package: com.kanji.badgebar
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Installed-Size: 448
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), ws.hbang.alderis (>= 1.1)
+Conflicts: me.conorthedev.pastel, me.conorthedev.dotto+
+Filename: ./deb/com.kanji.badgebar_1.3.7_iphoneos-arm.deb
+Size: 170486
+MD5sum: 2050d1c5aad82356ebe82f50367fd621
+SHA1: a00bb819a5f8f1f41e0ed7d413d8b170c12d62cc
+SHA256: 3e682bb49c3246d1c28c52de1b1c4ddfdd28f90c8d270eed58fc3db94f5ba3c4
+Section: Tweaks
+Description: Replace the stock ugly Badges with a BadgeBar.
+Author: Kanji <kanjismc@hotmail.com>
+Depiction: https://chariz.com/buy/badgebar
+Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
+Name: BadgeBar
+
+Package: com.kanji.cozybadges
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Installed-Size: 400
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
+Filename: ./deb/com.kanji.cozybadges_1.2.3_iphoneos-arm.deb
+Size: 79186
+MD5sum: 5ef6e8e652953aff2ed87d1994821e3f
+SHA1: 7538adde3a366a4e873056b7c400eecf38f88f74
+SHA256: 5267b83ffc97eec839205b0853360650edf0c090607b6afa1773c9f5e3137a9c
+Section: Tweaks
+Description: A cozy place for your badges
+Author: Kanji <kanjismc@hotmail.com>
+Depiction: https://chariz.com/buy/cozybadges
+Header: https://img.chariz.cloud/sileo-banner/cozybadges.jpg
+Icon: https://img.chariz.cloud/icon/cozybadges/icon@3x.png
+Name: CozyBadges
+
+Package: com.kanji.dayn14
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kanji
+Installed-Size: 2192
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 1.14), preferenceloader
+Replaces: com.jannikcrack.dayn, com.devvix.dayn14
+Filename: ./deb/com.kanji.dayn14_1.0.1_iphoneos-arm.deb
+Size: 701356
+MD5sum: 414b67305e4564ee512f856c34501576
+SHA1: 4ce5c23879308997f8d314e670cba14366d03263
+SHA256: 497251393c9543d92eb1168b58660f8aec60145ee622d35d9d3347030bbc1891
+Section: Tweaks
+Description: New notification concept
+Author: Devvix
+Depiction: https://chariz.com/buy/dayn-14
+Header: https://img.chariz.cloud/sileo-banner/dayn-14.jpg
+Icon: https://img.chariz.cloud/icon/dayn-14/icon@3x.png
+Name: Dayn (iOS 14)
+
+Package: com.kanji.idunnou
+Version: 1.4.6
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Installed-Size: 1204
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx (>= 1.1.0)
+Filename: ./deb/com.kanji.idunnou_1.4.6_iphoneos-arm.deb
+Size: 880664
+MD5sum: 4fb4716a6e7d416c41ed08f6ed35426a
+SHA1: 1aa3491db798d67605e234c1e69810064f61ffb6
+SHA256: 85a1cb1e31e61f8a3fc86f1d4ef29b1c43e644267c94cb13ebe76242bc501cce
+Section: Tweaks
+Description: Use this tweak to pin, hide, secure, and block conversations like clockwork.
+Author: Kanji <kanjismc@hotmail.com>
+Depiction: https://chariz.com/buy/idunnou
+Icon: https://chariz.com/cdn/icon/idunnou/icon@3x.png
+Name: iDunnoU
+
+Package: com.kanji.indy
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Installed-Size: 1164
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./deb/com.kanji.indy_1.2.0_iphoneos-arm.deb
+Size: 395650
+MD5sum: 7fbdd5fe834c5f902c69983496f51cc1
+SHA1: 4cef630f20f274f7d961ccd5d800536afbb1f265
+SHA256: afeea7562ca88e112507224381cbe4e44b99b95788d884dc9a894e11547bb7c9
+Section: Tweaks
+Description: Control from your status bar.
+Author: Kanji <kanjismc@hotmail.com>
+Depiction: https://chariz.com/buy/indy
+Icon: https://chariz.com/cdn/icon/indy/icon@3x.png
+Name: Indy
+
+Package: com.kanji.jellyfish
+Version: 1.6.5
+Architecture: iphoneos-arm
+Maintainer: Kanji <kanjismc@hotmail.com>
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm
+Filename: ./deb/com.kanji.jellyfish_1.6.5_iphoneos-arm.deb
+Size: 105568
+MD5sum: 2e9f3366d25f89226a3c2cf4962ad328
+SHA1: 0f0979de4e9d078273082220936d13e94e3e4fa1
+SHA256: 2fc05fb4ae1cca91d64bd40c1945776e4c31d3f1357d8c6638733d6b2185eb94
+Section: Tweaks
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
+Author: Kanji <kanjismc@hotmail.com>
+Depiction: https://chariz.com/buy/jellyfish
+Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
+Name: Jellyfish
 
 Package: com.laughingquoll.emerald
 Version: 1.0.7
@@ -768,26 +861,6 @@ Description: MacOS TouchBar for iOS!
 Author: Ethan Whited
 Name: TouchBar
 
-Package: com.noisyflake.cozybadges
-Version: 1.2.3
-Architecture: iphoneos-arm
-Maintainer: NoisyFlake <support@noisyflake.com>
-Installed-Size: 400
-Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
-Filename: ./deb/com.noisyflake.cozybadges_1.2.3_iphoneos-arm.deb
-Size: 47984
-MD5sum: 1743b5b163e0d8c159c2d011411eebb1
-SHA1: 26f4b1667000556400102937087112f88c7a3a68
-SHA256: 1b6668f6ee5713303c3b1cebecf086ce6c5925e236f0711bf154f56012fe6d38
-Section: Tweaks
-Description: A cozy place for your badges
-Tag: cydia::commercial, compatible_min::ios13.0
-Author: NoisyFlake <support@noisyflake.com>
-Depiction: https://chariz.com/buy/cozybadges
-Header: https://img.chariz.cloud/sileo-banner/cozybadges.jpg
-Icon: https://img.chariz.cloud/icon/cozybadges/icon@3x.png
-Name: CozyBadges
-
 Package: com.raff.notifillpro
 Version: 1.3.2
 Architecture: iphoneos-arm
@@ -848,63 +921,4 @@ Section: Themes
 Description: Distant echoes
 Author: Timeloop
 Name: echoes
-
-Package: com.twickd.jannikcrack.badgebar
-Version: 1.3.7
-Architecture: iphoneos-arm
-Maintainer: JannikCrack <jannikcrack@aol.com>
-Installed-Size: 448
-Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), ws.hbang.alderis (>= 1.1)
-Conflicts: me.conorthedev.pastel, me.conorthedev.dotto+
-Filename: ./deb/com.twickd.jannikcrack.badgebar_1.3.7_iphoneos-arm.deb
-Size: 150516
-MD5sum: a7c93661ef63d7df8c2ce931aee86b9e
-SHA1: 4cc3b59d213a9b33b926a9a013ecc25c4334aae6
-SHA256: 1940bf9fcaa9a09066b277ea0f99aaf68c8ddee6b21e13a634dea85c3519a054
-Section: Tweaks
-Description: Replace the stock ugly Badges with a BadgeBar.
-Tag: cydia::commercial, compatible_min::ios12.2
-Author: JannikCrack <jannikcrack@aol.com>
-Depiction: https://chariz.com/buy/badgebar
-Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
-Name: BadgeBar
-
-Package: me.midnightchips.asteroid14
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: MidnightChips <midnightchips@gmail.com>
-Installed-Size: 1840
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0.0), ws.hbang.common (>= 1.17), com.opa334.altlist
-Filename: ./deb/me.midnightchips.asteroid14_1.0.1_iphoneos-arm.deb
-Size: 339406
-MD5sum: ff7627c2c6b4de0336fbfe3cb1372d13
-SHA1: a3a4f7890d70a7ddc4398d2e5670fc6857bffda8
-SHA256: 194077a010ce49701023059fb6499201d00735a9378c74d8d37bcdffdf8dfa71
-Section: Tweaks
-Description: System-wide weather
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: MidnightChips <midnightchips@gmail.com>
-Depiction: https://chariz.com/buy/asteroid
-Icon: https://cdn.chariz.cloud/icon/asteroid/icon@3x.png
-Name: Asteroid
-
-Package: xyz.royalapps.jellyfish
-Version: 1.6.5
-Architecture: iphoneos-arm
-Maintainer: Justin Proulx & Ayden Panhuyzen <justinproulxapps@outlook.com>
-Installed-Size: 472
-Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
-Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm
-Filename: ./deb/xyz.royalapps.jellyfish_1.6.5_iphoneos-arm.deb
-Size: 69650
-MD5sum: 41900468078d0ac5811efeb2ec040447
-SHA1: 5fcbc295a3d5333cb686a2d61481d0e6df515dec
-SHA256: 700012ee99632947dfa51a05ecf8be53cb2e0cf41f372489e5a967975f3e0458
-Section: Tweaks
-Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
-Tag: cydia::commercial, compatible_min::ios13.0
-Author: Justin Proulx & Ayden Panhuyzen <justinproulxapps@outlook.com>
-Depiction: https://chariz.com/buy/jellyfish
-Icon: https://cdn.chariz.cloud/icon/jellyfish/icon@3x.png
-Name: Jellyfish
 
