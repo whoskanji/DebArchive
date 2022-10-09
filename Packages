@@ -78,27 +78,6 @@ Author: Chr1s
 Icon: https://chr1s.dev/assets/atlasRound.png
 Name: Atlas
 
-Package: com.devvix.dayn14
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Devvix
-Installed-Size: 2192
-Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 1.14), preferenceloader
-Replaces: com.jannikcrack.dayn
-Filename: ./deb/com.devvix.dayn14_1.0.1_iphoneos-arm.deb
-Size: 565048
-MD5sum: b5d2bae7c748299707d287167a874115
-SHA1: 0da546e0000a740ee1da3dea072d64bdca851bf7
-SHA256: 4f9d43e1a2985fc7a3aa91b987d4b52085897511a32140984ba77a003a825aeb
-Section: Tweaks
-Description: New notification concept
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: Devvix, JannikCrack
-Depiction: https://chariz.com/buy/dayn-14
-Header: https://img.chariz.cloud/sileo-banner/dayn-14.jpg
-Icon: https://img.chariz.cloud/icon/dayn-14/icon@3x.png
-Name: Dayn (iOS 14)
-
 Package: com.foxfort.lumi
 Version: 2.0.1
 Architecture: iphoneos-arm
