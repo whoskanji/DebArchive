@@ -873,6 +873,24 @@ Description: A new way to experience Messages.
 Author: Ryan Trent
 Name: Groups
 
+Package: com.sema.null
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Sema
+Installed-Size: 164
+Depends: mobilesubstrate (>= 0.9.5.000)
+Conflicts: com.no5up-kanji.librelic
+Replaces: com.no5up-kanji.librelic
+Filename: ./deb/com.sema.null_1.1_iphoneos-arm.deb
+Size: 6734
+MD5sum: 78015c8b9ebabc91c3077641da350371
+SHA1: dda17e213a37395d8523d108ed3a91ad8b38272e
+SHA256: 98d1978e8a5a5a5cd1ca8a244b2f8edc31656cd1292a8a9062678789c84aafc8
+Section: Development
+Description: the library that iota runs on to stay undetected.
+Author: Sema
+Name: null
+
 Package: com.stevsarm.gateau
 Version: 1.60
 Architecture: iphoneos-arm
@@ -900,4 +918,21 @@ Section: Themes
 Description: Distant echoes
 Author: Timeloop
 Name: echoes
+
+Package: dev.sema.iota
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Sema
+Installed-Size: 848
+Depends: mobilesubstrate, com.sema.null
+Replaces: com.wyattgahm.shadowx
+Filename: ./deb/dev.sema.iota_2.2_iphoneos-arm.deb
+Size: 396818
+MD5sum: 03e6458270f7ca9646e4b53b8b66c645
+SHA1: db1fe881f77e62b8d814071a0f5ace4ef19eecce
+SHA256: 42072d4e7533a3e95cd9af69779ccde6e33e8b0344b43967319317888ca42470
+Section: Tweaks
+Description: Revived from the dead, iota is a free alternative to Wicked. It is based off the source code that Kanji posted.
+Author: Sema
+Name: iota
 
